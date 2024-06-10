@@ -1,0 +1,602 @@
+@font-face {
+    font-family: Ringift;
+    src: url(../fonts/Ringift.otf);
+}
+
+.header_bg {
+    background: url(../img/homepage_banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav-link {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.125) 0%, rgba(255, 255, 255, 0.2) 100%);
+    padding: 17px 33px;
+    gap: 10px;
+    border-radius: 50px;
+    opacity: 0px;
+    color: #fff;
+}
+
+.nav {
+    gap: 10px;
+}
+
+.home_page_h1 {
+    font-family: Ringift;
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 73.75px;
+    text-align: left;
+    color: #fff;
+    width: 729.9px;
+    height: 470px;
+    padding-top: 150px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.home_page_sub {
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 28.76px;
+    text-align: left;
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 32px;
+}
+
+.right_contain_about h3 {
+    font-family: Ringift;
+    font-size: 65px;
+    font-weight: 300;
+    line-height: 84.4px;
+    text-align: left;
+    color: #3C0A6D;
+
+}
+
+.right_contain_about .span_text {
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 41.76px;
+    text-align: left;
+
+}
+
+.right_contain_about p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    padding-bottom: 6%;
+
+}
+
+.right_contain_about h5 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 32.76px;
+    text-align: left;
+}
+
+.dark_cta {
+    padding: 16px 30px 17px 30px;
+    border-radius: 50px;
+    opacity: 0px;
+    background: #9D4EDD !important;
+    color: #fff !important;
+    border: none;
+    text-decoration: none;
+}
+
+.right_contain_about {
+    padding: 120px 0px 120px 40px;
+}
+
+.service_box img {
+    width: 100%;
+}
+
+.service_box {
+    padding: 8px;
+}
+
+.service_box p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25.06px;
+    text-align: left;
+}
+
+.heading {
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 46.68px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    color: #3C0A6D;
+    padding: 0px 0px 20px 0px;
+}
+
+.heading span {
+    color: #984AD7;
+}
+
+.approach_box {
+    border-bottom: 1px solid #000;
+    padding: 6% 0% 6% 0%;
+}
+
+.approach_p {
+    padding: 0% 17% 5% 17%;
+    text-align: center;
+}
+
+.testimonial_box {
+    background: linear-gradient(96.68deg, #3C0A6D 1.9%, #3C0A6D 25.44%, #9D4EDD 141.01%);
+    color: #fff;
+    padding: 60px 40px;
+    border-radius: 34px;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.calnder-box p {
+    text-align: center;
+    padding: 0px 83px;
+    padding-bottom: 20px;
+}
+
+.right-footer {
+    background: linear-gradient(96.68deg, #3C0A6D 1.9%, #3C0A6D 25.44%, #9D4EDD 141.01%);
+    /* display: flex; */
+    /* padding: 20px 100px 0px 50px; */
+    border-radius: 50px 0px 0px 50px;
+}
+
+.right-top-footer {
+    display: flex;
+    padding: 20px 100px 0px 80px;
+}
+
+.right-bottom-footer {
+    padding: 0px 0px 0px 80px;
+}
+
+.inner-footer {
+    padding: 0px 10px;
+}
+
+.right-bottom-footer hr {
+    color: white;
+}
+
+.footer-terms {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-terms h4 a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #ffffff91;
+}
+
+.footer-terms h4 {
+    color: #ffff;
+    padding: 0px 0px 10px 0px;
+}
+
+.inner-footer h4 {
+    color: white;
+    font-family: 'Inter';
+    font-size: 16px;
+}
+
+.inner-footer a {
+    color: white;
+    font-family: 'Inter';
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.left-footer img {
+    float: right;
+}
+
+.spacing {
+    padding: 50px 0px;
+}
+
+.footer-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-icons a {
+    color: #ffff;
+}
+
+.inner-footer p {
+    color: #ffffffa6;
+    font-size: 12px;
+}
+
+.form-control::placeholder {
+    font-size: 12px;
+    /* Adjust the font size as needed */
+}
+
+.conct-form input {
+    border-radius: 50px;
+    padding: 10px 5px 15px 15px;
+    margin: 8px 0px;
+}
+
+.conct-form textarea {
+    border-radius: 30px;
+    padding: 14px 5px 15px 14px;
+    margin: 8px 0px 0px 0px;
+}
+
+.service_box p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25.06px;
+    text-align: left;
+}
+
+.service_box h5 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36.19px;
+    text-align: left;
+    padding: 30px 0px 12px 0px;
+    color: #3C0A6D;
+}
+
+.center_box h4 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.center_box h5 {
+    margin-bottom: 50px;
+}
+
+.center_box {
+    text-align: center;
+    padding: 76px 0px;
+
+}
+
+.image-right img {
+    height: 500px;
+    width: 409px;
+}
+
+/* About page css  */
+about-banner {
+    margin: 120px 0px 50px 0px;
+    background: url(./assets/img/about-banner.jpg);
+    background-size: 100%;
+    background-position: center;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+}
+
+.about-banner h1 {
+    padding: 210px 0px 222px 50px;
+    color: #ffffff;
+    font-size: 50px;
+    font-family: Ringift;
+}
+
+.blue-text {
+    color: #3C0A6D;
+    font-family: Ringift;
+    font-size: 50px;
+}
+
+.purple-text-md {
+    color: #984AD7;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+}
+
+.ritu-bio h6 {
+    font-size: 18px;
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+.ritu-bio p {
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+}
+
+.ritu-image img {
+    height: 500px;
+    width: 409px;
+    border-radius: 30px;
+}
+
+.black-text {
+    color: #000000;
+    font-size: 35px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.purple-text-about {
+    color: #984AD7;
+    font-size: 35px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+
+.about-slider h1 {
+    text-align: center;
+}
+
+.about-slider img {
+    border-radius: 30px;
+}
+
+.about-middle-sect-img img {
+    float: right;
+    height: 435px;
+    border-radius: 30px;
+}
+
+.good-fit {
+    padding: 60px 0px 60px 0px;
+}
+
+.good-fit {
+    background: url(./assets/img/purp-rec.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+}
+
+.good-fit h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Ringift;
+}
+
+.good-fit h2 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+.good-fit-cta {
+    margin: 20px 0px 0px 0px;
+}
+
+.good-fit-cta a {
+    color: #000000;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 6px 15px 8px 20px;
+    border-radius: 30px;
+}
+
+.credin {
+    text-align: center;
+}
+
+.credin-list ul li a {
+    color: #000000;
+
+}
+
+.small-space {
+    padding: 10px 0px;
+}
+
+.ritu-bio-cta {
+    margin-top: 40px;
+}
+
+.inner-cta img {
+    height: 15px;
+}
+
+.inner-cta a {
+    color: #3C0A6D;
+}
+
+.inner-cta {
+    display: flex;
+    gap: 10px;
+}
+
+
+/* Service page CSS  */
+
+.servc-first img {
+    height: 451px;
+    width: 456px;
+    border-radius: 20px;
+}
+
+.dignos-sec {
+    text-align: center;
+}
+
+.icon-sect {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border-bottom: 2px solid #6a6a6a82;
+    padding: 30px 0px 30px 0px;
+}
+
+.icon-sect p {
+    margin: unset;
+}
+
+.icon-text h6 {
+    font-size: 20px;
+}
+
+.icon-text p {
+    font-size: 16px;
+}
+
+.appnt-box {
+    background: #3C0A6D;
+    border-radius: 20px;
+    padding: 40px 50px 60px 37px;
+    margin-top: 20px;
+}
+
+.appnt-box-light {
+    background: #9D4EDD;
+    border-radius: 20px;
+    padding: 40px 50px 60px 37px;
+    margin-top: 20px;
+}
+
+.appnt-box h1 {
+    color: #ffffff;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.appnt-box-light h1 {
+    color: #ffffff;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.appnt-box h2 {
+    color: #ffffff;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.appnt-box-light h2 {
+    color: #ffffff;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.appnt-box p {
+    color: #ffff;
+    font-size: 14px;
+}
+
+.appnt-box-light p {
+    color: #ffff;
+    font-size: 14px;
+}
+
+.appnt-box a {
+    background: #9D4EDD;
+    color: white;
+    padding: 6px 18px 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.appnt-box-light a {
+    background: #ffffff;
+    color: #000000;
+    padding: 6px 18px 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.appnt-box-cta {
+    margin-top: 75px;
+}
+
+.servie-text h1 {
+    color: #3C0A6D;
+}
+
+.servie-text-light h1 {
+    color: #9D4EDD;
+}
+
+.servie-text p {
+    font-size: 14px;
+    padding-right: 60px;
+}
+
+.servie-text-light p {
+    font-size: 14px;
+    padding-right: 60px;
+}
+
+.schedule-box {
+    background: #F8F0FF;
+    border-radius: 30px;
+    padding: 30px 30px 44px 30px;
+}
+
+.schedule-box-text h1 {
+    font-size: 25px;
+    padding: 0px 0px 15px 0px;
+    color: #000000;
+}
+
+.schedule-box-text p {
+    font-size: 15px;
+    color: #000000;
+}
+
+.schedule-box-text-cta a {
+    color: white;
+    background: #9D4EDD;
+    text-decoration: none;
+    padding: 6px 18px 10px 20px;
+    border-radius: 20px;
+
+}
+
+.schedule-box-text-cta {
+    margin-top: 25px;
+}
+
+/* navbar on scroll logo css  */
+
+.navbar-bg .logo img {
+    height: 55px;
+    padding-left: 26px;
+}
+
+.navbar-bg {
+    border-radius: 50px;
+    background: rgb(255 255 255 / 62%);
+    backdrop-filter: blur(12px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 80px;
+    transition: all .5s ease-in-out;
+}
+
+.navbar-bg .nav-link {
+    color: blueviolet;
+    background: none;
+    padding: 17px 28px;
+}
+
+
+/* css end  */
