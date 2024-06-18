@@ -335,14 +335,6 @@ include 'footer.php';
         color: black;
     }
 
-    .about-banner {
-        margin: 120px 0px 50px 0px;
-        background: url(./assets/img/about-banner.jpg);
-        background-size: 100%;
-        background-position: center;
-        border-radius: 30px;
-        background-repeat: no-repeat;
-    }
 
     .blue-text {
         color: #3C0A6D;

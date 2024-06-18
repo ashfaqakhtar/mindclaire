@@ -160,6 +160,34 @@ include "header.php";
                 </div>
             </div>
         </div>
+
+        <!-- fifth blog  -->
+
+        <div class="col-md-3 tag-main-box" data-category="">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/a-journey-through-emotions-thumb.webp" alt="">
+                </div>
+                <div class="blog-head">
+                    <h1 class="three-line">A Journey Through Emotions - A Child Psychiatrist's Perspective</h1>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Summer break is here, and it's the perfect time for kids to unwind, have fun,
+                        and explore new experiences. While outdoor activities and vacations are a blast, there's also
+                        plenty of room for some quality indoor entertainment. If you're looking for a meaningful way to
+                        spend time with your kids that combines fun with valuable lessons, Disney-Pixar's Inside Out 2
+                        is a must-watch.
+                    </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="journey-through-emotions.php" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+
+
     </div>
 </div>
 

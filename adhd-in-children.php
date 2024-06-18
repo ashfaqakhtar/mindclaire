@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry Treatments</h1>
-                    <p>by RItu Goel | May 8, 2024 | Blogs | 0 comments</p>
+                    <p>by RItu Goel | May 17, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">
@@ -225,6 +225,10 @@ include "header.php";
             <div class="blog-right">
                 <h1>Recent Posts</h1>
                 <div class="recent-link-box">
+                <a href="journey-through-emotions">A Journey Through Emotions - A Child Psychiatrist's
+                        Perspective</a>
+                    <br>
+                    <br>
                     <a href="comprehensive-guide-to-integrative-child-psychiatry">Comprehensive Guide to Integrative
                         Child Psychiatry: Bridging Traditional and Holistic Approaches</a>
                     <br>

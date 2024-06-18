@@ -11,7 +11,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12 education-banner">
             <div class="blog-title">
-                <h1>Education</h1>
+                <h1>Media Mentions</h1>
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@ include "header.php";
         <div class="row">
             <div class="col-xs-12">
                 <div class="about-mob-title">
-                    <h1>Education</h1>
+                    <h1>Media Mentions</h1>
                 </div>
             </div>
         </div>

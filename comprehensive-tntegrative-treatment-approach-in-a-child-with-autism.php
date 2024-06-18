@@ -15,11 +15,13 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Case Study: Comprehensive Integrative Treatment Approach in a child with autism.</h1>
-                    <p>by RItu Goel | May 8, 2024 | Blogs | 0 comments</p>
+                    <p>by RItu Goel | June 11, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/case-study-comprehensive-integrative-treatment-approach-in-a-child-with-autism.webp" alt="">
+                    <img class="img-fluid"
+                        src="./assets/img/case-study-comprehensive-integrative-treatment-approach-in-a-child-with-autism.webp"
+                        alt="">
                 </div>
 
                 <div class="blog-detail-body">
@@ -95,6 +97,10 @@ include "header.php";
             <div class="blog-right">
                 <h1>Recent Posts</h1>
                 <div class="recent-link-box">
+                    <a href="journey-through-emotions">A Journey Through Emotions - A Child Psychiatrist's
+                        Perspective</a>
+                    <br>
+                    <br>
                     <a href="adhd-in-children">ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
                         Treatmentss</a>
                     <br>

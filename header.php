@@ -67,7 +67,7 @@
                                 <div class="dropdown-res tab-drop">
                                     <ul>
                                         <li><a class="tab-button-drop" href="blog">Blog</a></li>
-                                        <li><a class="tab-button-drop" href="education">Education</a></li>
+                                        <li><a class="tab-button-drop" href="media-mentions">Media Mentions</a></li>
                                         <li><a class="tab-button-drop" href="resources">Resources</a></li>
                                     </ul>
 
@@ -119,7 +119,7 @@
                         <li><a class="" href="about">About</a></li>
                         <li><a class="" href="services">Services</a></li>
                         <li><a class="" href="blog">Blog</a></li>
-                        <li><a class="" href="education">Education</a></li>
+                        <li><a class="" href="media-mentions">Media Mentions</a></li>
                         <li><a class="" href="faq">Faq's</a></li>
                         <li><a class="" href="contact">Contact</a></li>
                     </ul>

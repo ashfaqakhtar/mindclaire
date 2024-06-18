@@ -17,7 +17,7 @@
                         </div>
                         <div class="inner-footer col">
                             <h4><a href="blog">Blog</a></h4>
-                            <h4><a href="education">Education</a></h4>
+                            <h4><a href="media-mentions">Media Mentions</a></h4>
                             <h4><a href="resources">Resources</a></h4>
                         </div>
                         <div class="inner-footer col">
@@ -25,11 +25,11 @@
                         </div>
                         <div class="inner-footer col">
                             <h4>Office Address</h4>
-                            <p>5150 E. Pacific Coast  Highway, 2nd Floor, <br> Long Beach, CA 90804</p>
+                            <p>5150 E. Pacific Coast Highway, 2nd Floor, <br> Long Beach, CA 90804</p>
                         </div>
                         <div class="inner-footer col">
-                            
-                            </div>
+
+                        </div>
                         <div class="inner-footer col">
                             <h4>Connect With Us</h4>
                             <div class="footer-icons">
@@ -49,13 +49,19 @@
                         <hr>
                         <div class="footer-terms">
                             <div>
-                                <h4><a href="#">Terms & Conditions</a></h4>
+                                <h4><a href="terms-of-use">Terms of Use</a></h4>
                             </div>
                             <div>
-                                <h4><a href="#">Privacy Policy</a></h4>
+                                <h4><a href="acceptable-use-policy">Acceptable Use Policy</a></h4>
                             </div>
                             <div>
-                                <h4><a href="#">© 2024 Mindclaire. All Right Reserved.</a></h4>
+                                <h4><a href="privacy-policy">Privacy Policy</a></h4>
+                            </div>
+                            <div>
+                                <h4><a href="medical-disclaimer">Medical Disclaimer</a></h4>
+                            </div>
+                            <div>
+                                <h4><a href="#" disabled>© 2024 Mindclaire. All Right Reserved.</a></h4>
                             </div>
                         </div>
                     </div>

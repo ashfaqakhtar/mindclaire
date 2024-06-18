@@ -30,7 +30,7 @@ include "header.php";
 
                     <br><br>
 
-                    <a href="https://occamsadvisory.com/blog/wp-content/uploads/2024/05/Marquis-Whos-Who-Honors-Ritu-Goel-for-Expertise-in-Mental-Health-Care.pdf"
+                    <a href="./media_mentions/Marquis-Whos-Who-Honors-Ritu-Goel-for-Expertise-in-Mental-Health-Care.pdf"
                         target="_blank">Marquis Who’s Who Honors Ritu Goel for Expertise in Mental Health Care</a>
 
 
@@ -149,7 +149,7 @@ if (isset($_POST['submit'])) {
     $comment_on_post = htmlspecialchars($_POST['message_box']);
  
 
-    $subject = "Education Page | Conmmet Section";
+    $subject = "Media Mention Page | Conmmet Section";
 
     // Email body I will receive
     $message = "First Name: " . $first_name . "\n\n"

@@ -174,8 +174,8 @@ include "header.php";
                         website and sign up for a free 15 minute consultation to discover how I can make a
                         difference in your life or the life of your loved one.</p>
 
-                    <p>To learn more about my services or to schedule an appointment, visit <a href="https://www.mindclaire.com/"
-                            target="_blank">Mindclaire.com.</a>
+                    <p>To learn more about my services or to schedule an appointment, visit <a
+                            href="https://www.mindclaire.com/" target="_blank">Mindclaire.com.</a>
                         Together, we can pave the way to a healthier, happier future.</p>
 
                     <br>
@@ -197,6 +197,10 @@ include "header.php";
             <div class="blog-right">
                 <h1>Recent Posts</h1>
                 <div class="recent-link-box">
+                    <a href="journey-through-emotions">A Journey Through Emotions - A Child Psychiatrist's
+                        Perspective</a>
+                    <br>
+                    <br>
                     <a href="adhd-in-children">ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
                         Treatmentss</a>
                     <br>

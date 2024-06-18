@@ -15,11 +15,13 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Integrative Psychiatry Practices for Children and Youth with Autism Spectrum Disorder</h1>
-                    <p>by RItu Goel | May 8, 2024 | Blogs | 0 comments</p>
+                    <p>by RItu Goel | May 28, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/integrative-psychiatry-practices-for-children-and-youth-with-autism-spectrum-disorder.webp" alt="">
+                    <img class="img-fluid"
+                        src="./assets/img/integrative-psychiatry-practices-for-children-and-youth-with-autism-spectrum-disorder.webp"
+                        alt="">
                 </div>
 
                 <div class="blog-detail-body">
@@ -153,7 +155,8 @@ include "header.php";
                     </p>
                     <br>
                     <p>To discover more about our comprehensive services or to book an appointment, please
-                        visit <a href="https://www.mindclaire.com/" target="_blank">MindClaire.</a> Let's work together to create a customized plan that helps your child
+                        visit <a href="https://www.mindclaire.com/" target="_blank">MindClaire.</a> Let's work together
+                        to create a customized plan that helps your child
                         thrive and achieve their fullest potential.</p>
 
                 </div>
@@ -169,6 +172,10 @@ include "header.php";
             <div class="blog-right">
                 <h1>Recent Posts</h1>
                 <div class="recent-link-box">
+                    <a href="journey-through-emotions">A Journey Through Emotions - A Child Psychiatrist's
+                        Perspective</a>
+                    <br>
+                    <br>
                     <a href="adhd-in-children">ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
                         Treatmentss</a>
                     <br>
@@ -177,7 +184,8 @@ include "header.php";
                         Child Psychiatry: Bridging Traditional and Holistic Approaches</a>
                     <br>
                     <br>
-                    <a href="comprehensive-tntegrative-treatment-approach-in-a-child-with-autism">Case Study: Comprehensive Integrative Treatment Approach in a child with autism.</a>
+                    <a href="comprehensive-tntegrative-treatment-approach-in-a-child-with-autism">Case Study:
+                        Comprehensive Integrative Treatment Approach in a child with autism.</a>
                     <br>
                     <br>
                 </div>
