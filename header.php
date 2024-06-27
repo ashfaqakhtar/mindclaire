@@ -38,7 +38,7 @@
 </head>
 
 
-<div class="container mobile_display_none">
+<div class="container nav_mobile_display_none">
     <div class="row">
         <header class="fixed-top mt-3">
             <div class="container ">
@@ -46,7 +46,7 @@
                     <div class="col-md-3">
                         <div class="logo">
                             <a href="/"><img class="logo-icon"
-                                    src="https://www.occamsadvisory.com/wp-content/uploads/2023/09/dr.ritu-mindcleair-logo.svg"></a>
+                                    src="./assets/img/icons/dr.ritu-mindcleair-logo.svg"></a>
                         </div>
 
                     </div>
@@ -89,7 +89,7 @@
 </div>
 
 
-<div class="container mobile_display_block mob-nav-main">
+<div class="container nav_mobile_display_block mob-nav-main fixed-top">
     <div class="row ">
         <div class="col-sm-12">
             <div class="mob-logo-nav">
@@ -97,7 +97,7 @@
                     <div class="mob-logo-box">
                         <a href="index">
                             <img class="-mob-logo-icon"
-                                src="https://www.occamsadvisory.com/wp-content/uploads/2023/09/dr.ritu-mindcleair-logo.svg">
+                                src="./assets/img/icons/dr.ritu-mindcleair-logo.svg">
                         </a>
                     </div>
                 </div>

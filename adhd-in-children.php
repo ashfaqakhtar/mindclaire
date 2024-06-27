@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry Treatments";
+$title = "MindClaire | ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry Treatments";
 $meta = "";
 $metakeyword = "";
 include "header.php";

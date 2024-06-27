@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Dr. Ritu Goel Honored in Marquis Who’s Who – Ritu Goel_ Feature";
+$title = "MindClaire | Dr. Ritu Goel Honored in Marquis Who’s Who – Ritu Goel_ Feature";
 $meta = "";
 $metakeyword = "";
 include "header.php";

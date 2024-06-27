@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches";
+$title = "MindClaire | Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches";
 $meta = "";
 $metakeyword = "";
 include "header.php";
@@ -165,11 +165,11 @@ include "header.php";
 
                     <br><br>
 
-                    <h6>Get Started with Mindclaire</h6>
+                    <h6>Get Started with MindClaire</h6>
                     <br>
 
                     <p>If you're looking for a comprehensive, personalized approach to mental health, Dr Ritu
-                        Goel at Mindclaire is here to help. My integrative psychiatry services are designed to
+                        Goel at MindClaire is here to help. My integrative psychiatry services are designed to
                         support patients through every step of their journey towards well-being. Visit my
                         website and sign up for a free 15 minute consultation to discover how I can make a
                         difference in your life or the life of your loved one.</p>

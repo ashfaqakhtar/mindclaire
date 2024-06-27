@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Acceptable Use Policy";
+$title = "MindClaire | Acceptable Use Policy";
 $meta = "";
 $metakeyword = "";
 include "header.php";
@@ -14,7 +14,7 @@ include "header.php";
             <div class="use-policy">
                 <h1>Acceptable Use Policy</h1>
                 <p>This is the acceptable use policy, which, together with our terms of website use, sets out the terms
-                    under which we Mindclaire allow you to use our site <a href="https://mindclaire.com/"
+                    under which we MindClaire allow you to use our site <a href="https://mindclaire.com/"
                         target="_blank">www.mindclaire.com</a> (“site”) whether you are a
                     visitor or a registered user.</p>
                 <br>

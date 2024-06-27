@@ -61,7 +61,7 @@
                                 <h4><a href="medical-disclaimer">Medical Disclaimer</a></h4>
                             </div>
                             <div>
-                                <h4><a href="#" disabled>© 2024 Mindclaire. All Right Reserved.</a></h4>
+                                <h4><a href="#" disabled>© 2024 MindClaire. All Right Reserved.</a></h4>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
 <script>
     $(window).scroll(function () {
         if ($(document).scrollTop() > 50) {
-            $(".logo-icon").attr("src", "https://www.occamsadvisory.com/wp-content/uploads/2023/09/dr.ritu-mindcleair-logo.svg");
+            $(".logo-icon").attr("src", "https://mindclaire.com/assets/img/icons/dr.ritu-mindcleair-logo.svg");
         } else {
             $(".logo-icon").attr("src",
                 "assets/img/MindClaire_Logo_White.svg");

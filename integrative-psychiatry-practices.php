@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Integrative Psychiatry Practices for Children and Youth with Autism Spectrum Disorder";
+$title = "MindClaire | Integrative Psychiatry Practices for Children and Youth with Autism Spectrum Disorder";
 $meta = "";
 $metakeyword = "";
 include "header.php";

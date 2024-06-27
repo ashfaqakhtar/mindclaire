@@ -102,7 +102,7 @@ include "header.php";
                     create derivative works from, sell, assist in the sale of, distribute, display, perform, or in any
                     other way, exploit our content or any of our intellectual property, in whole or in part, whether
                     manually or by electronic means, whether or not you have purchased such information, without the
-                    express written consent of Mindclaire PC.</p>
+                    express written consent of MindClaire PC.</p>
                 <p>We perform regular and routine searches for any infringing uses of our copyrighted material. If you
                     wish to use our Content for any purpose other than viewing it for your own personal use, we offer
                     licenses starting at $5,000. If it is discovered that you are using our Content other than in the
@@ -119,8 +119,8 @@ include "header.php";
                     agree not to share purchased materials with others who have not purchased them. You acknowledge and
                     agree not to use our Content to gain profit, or attempt to gain profit, whether financially, or in
                     any other way.</p>
-                <p>All of the copyrights on our website are solely owned by Mindclaire PC. Our logos, tag lines, names,
-                    icons and design elements are trademarks belonging to Mindclaire PC which help consumers identify us
+                <p>All of the copyrights on our website are solely owned by MindClaire PC. Our logos, tag lines, names,
+                    icons and design elements are trademarks belonging to MindClaire PC which help consumers identify us
                     and are protected by United States Intellectual Property law. You agree not to use them in any way
                     that is likely to cause confusion among consumers, implies a connection between us, an endorsement
                     by us, or that discredits our brand in any way.</p>
@@ -135,7 +135,7 @@ include "header.php";
                 <p>If you choose to download a free resource from our website, you acknowledge and agree that this free
                     resource is to be used for your personal non-commercial use only. You agree not to edit, distribute
                     or copy this free resource in any way. You agree that if you share this free resource you will
-                    provide Mindclaire PC proper credit and you will not represent the material to be your own. You
+                    provide MindClaire PC proper credit and you will not represent the material to be your own. You
                     further agree that you will not attempt to profit financially or in any other way from this free
                     resource. </p>
                 <p>If you choose to “opt-in” you agree to receive communications from us electronically and acknowledge
@@ -316,13 +316,13 @@ include "header.php";
                     time and for any other loss or damage of any kind, however and whether caused by negligence, breach
                     of contract, or otherwise, even if foreseeable.</p>
                 <p>Should you choose to use our website and its Content or our Services, whether free or for purchase,
-                    you acknowledge and agree that under no circumstances will Mindclaire PC be liable to you or any
+                    you acknowledge and agree that under no circumstances will MindClaire PC be liable to you or any
                     party for any type of damages stemming from or perceived to stem from, any use or reliance on our
                     website, its Content or our Services, including any injuries sustained as a direct or indirect
                     result of use or reliance on such information. You agree to hold us harmless and release us from any
                     and all claims arising from any use or reliance on information on our website, its Content or our
                     Services, whether now known, or discovered in the future. You expressly agree not to make any claims
-                    against Ritu Goel, MD or Mindclaire PC.</p>
+                    against Ritu Goel, MD or MindClaire PC.</p>
                 <p>You specifically acknowledge and agree that we are not liable for any defamatory, offensive or
                     illegal conduct of any other website participant or user, including you. </p>
                 <br>
@@ -416,7 +416,7 @@ include "header.php";
                     ACTION EXCEED ONE HUNDRED DOLLARS ($100).</p>
                 <br>
                 <h3>INDEMNIFICATION.</h3>
-                <p>You agree at all times to indemnify, defend and hold harmless Mindclaire PC as well as our
+                <p>You agree at all times to indemnify, defend and hold harmless MindClaire PC as well as our
                     affiliates, agents, contractors, officers, directors, shareholders, employees, joint venture
                     partners, successors, transferees, assignees, licensees or any other party associated with us, from
                     and against any and all losses, damages, settlements, liabilities, costs, charges, assessments and
@@ -463,7 +463,7 @@ include "header.php";
                 <br>
                 <h3>ENTIRE AGREEMENT, WAIVER.</h3>
                 <p>These Terms and Conditions, along with the Privacy Policy and Disclaimer posted on mindclaire.com
-                    constitute the entire agreement between you and Mindclaire PC regarding our website and Services,
+                    constitute the entire agreement between you and MindClaire PC regarding our website and Services,
                     and supersedes all prior and contemporaneous agreements, representations, and understandings between
                     us, with the exception of any separate agreements, including Terms of Purchase entered into by you
                     via your decision to purchase Services from us. You acknowledge and agree that no waiver of any of

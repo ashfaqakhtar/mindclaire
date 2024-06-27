@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Case Study: Comprehensive Integrative Treatment Approach in a child with autism.";
+$title = "MindClaire | Case Study: Comprehensive Integrative Treatment Approach in a child with autism.";
 $meta = "";
 $metakeyword = "";
 include "header.php";

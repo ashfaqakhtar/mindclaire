@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Privacy Policy";
+$title = "MindClaire | Privacy Policy";
 $meta = "";
 $metakeyword = "";
 include "header.php";
@@ -12,7 +12,7 @@ include "header.php";
     <div class="row">
         <div class="col-xl-12">
             <div class="use-policy">
-                <h1>PRIVACY POLICY OF Mindclaire PC AND Mindclaire.com</h1>
+                <h1>PRIVACY POLICY OF MindClaire PC AND Mindclaire.com</h1>
                 <br>
                 <h3>LAST UPDATED June 1, 2024</h3>
                 <br>
@@ -20,7 +20,7 @@ include "header.php";
                 <br>
                 <p>The website mindclaire.com is owned by Mindclaire PC, a California professional corporation Company.
                 </p>
-                <p>Mindclaire PC is committed to protecting your privacy online. This Privacy Policy discloses our
+                <p>MindClaire PC is committed to protecting your privacy online. This Privacy Policy discloses our
                     policies regarding how we collect and process your personal data. </p>
                 <p>Your use of our website, and any information that you provide to us is subject to this Privacy
                     Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the
@@ -203,7 +203,7 @@ include "header.php";
                     information at your own risk and you assume all responsibility for its unauthorized use. </p>
                 <p>Because our core activities do not consist of processing operations which require regular and
                     systematic processing of data subjects on a large scale, nor do we process sensitive data on a large
-                    scale, we have determined that Mindclaire PC is not required to appoint a Data Protection Officer.
+                    scale, we have determined that MindClaire PC is not required to appoint a Data Protection Officer.
                 </p>
                 <br>
                 <h3>F. RETENTION OF PERSONAL INFORMATION</h3>
@@ -217,7 +217,7 @@ include "header.php";
                 <p>You may request information on how your Personal Information is being used and processed, request
                     access to, request a copy of, restrict our use and processing of, or request to update, edit, delete
                     or erase your Personal Information at any time, free of charge, by writing to us at: <br>
-                    <br>Mindclaire PC <br>1171 Bryant Road <br>Long Beach, CA 90815
+                    <br>MindClaire PC <br>1171 Bryant Road <br>Long Beach, CA 90815
                 </p>
 
                 <p>You also have the right to be forgotten, and may withdraw your consent previously given to us, by
