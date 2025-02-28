@@ -54,7 +54,7 @@ include "header.php";
                 <br>
                 <h2>General Disclaimer</h2>
                 <br>
-                <h6>DISCLAIMER OF ZENPSYCHIATRY.COM</h6>
+                <h6>DISCLAIMER OF mindclaire.com</h6>
                 <br>
                 <h6>LAST UPDATED June 1, 2024</h6>
                 <br>
@@ -69,8 +69,8 @@ include "header.php";
                     Disclaimer. </p>
                 <br>
                 <p>By accessing our website, you are using it, and you acknowledge that you have read this Disclaimer
-                    and consent to be bound by all its terms, without modification. By using zenpsychiatry.com and
-                    subdomain my.zenpsychiatry.com, you agree that the exclusions and limitations of liability of this
+                    and consent to be bound by all its terms, without modification. By using mindclaire.com and
+                    subdomain my.mindclaire.com, you agree that the exclusions and limitations of liability of this
                     Disclaimer are reasonable. IF YOU DO NOT AGREE TO BE BOUND BY THIS DISCLAIMER, NAVIGATE AWAY FROM
                     THIS WEBSITE.</p>
                 <br>
@@ -79,7 +79,7 @@ include "header.php";
                 <p>“Website” = mindcclaire.com and all content on mindclaire.com and all services offered on
                     mindclaire.com.</p>
                 <br>
-                <p>“We,” “us,” and “our” = Zen Psychiatry Training, LLC.</p>
+                <p>“We,” “us,” and “our” = mindclaire Training, LLC.</p>
                 <br>
                 <p>“User,” “you,” and “your” = website visitors, customers, and any other users of our website. </p>
                 <br>

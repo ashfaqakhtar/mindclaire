@@ -19,6 +19,8 @@
                             <h4><a href="blog">Blog</a></h4>
                             <h4><a href="media-mentions">Media Mentions</a></h4>
                             <h4><a href="resources">Resources</a></h4>
+                            <h4><a href="events">Events</a></h4>
+                            <h4><a href="press-release">Press Release</a></h4>
                         </div>
                         <div class="inner-footer col">
                             <h4><a href="contact">Contact</a></h4>
@@ -33,10 +35,10 @@
                         <div class="inner-footer col">
                             <h4>Connect With Us</h4>
                             <div class="footer-icons">
-                                <a href=""><i class="fa-brands fa-facebook"></i></a>
-                                <a href=""><i class="fa-brands fa-x-twitter"></i></a>
-                                <a href=""><i class="fa-brands fa-instagram"></i></a>
-                                <a href=""><i class="fa-brands fa-youtube"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=61560276094752&mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                                <a href="https://www.tiktok.com/@mindclaire_?_t=ZP-8tPrGNlLrtG&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                <a href="https://www.instagram.com/mindclaire/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                <a href="https://youtube.com/@mindclaire?si=FA9swMC9rXvUkVoQ" target="_blank"><i class="fa-brands fa-youtube"></i></a>
                                 <a href="https://www.linkedin.com/company/mindclaire/" target="_blank"><i
                                         class="fa-brands fa-linkedin"></i></a>
                             </div>
@@ -61,7 +63,7 @@
                                 <h4><a href="medical-disclaimer">Medical Disclaimer</a></h4>
                             </div>
                             <div>
-                                <h4><a href="#" disabled>© 2024 MindClaire. All Right Reserved.</a></h4>
+                                <h4><a href="#" disabled>© 2025 MindClaire. All Right Reserved.</a></h4>
                             </div>
                         </div>
                     </div>
@@ -121,6 +123,7 @@
     crossorigin="anonymous"></script>
 
 <script src="./assets/js/slick.js"></script>
+<script src="./assets/js/tracker.js"></script>
 
 </body>
 

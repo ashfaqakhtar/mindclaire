@@ -185,7 +185,7 @@ include "header.php";
 <div class="spacing"></div>
 
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12">
             <div class="index-ai-cta">
@@ -249,7 +249,7 @@ include "header.php";
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 

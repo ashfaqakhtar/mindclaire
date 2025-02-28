@@ -253,7 +253,7 @@ include "header.php";
                     at ritu.goel@mindclaire.com</p>
                 <br>
                 <h3>CHILDREN.</h3>
-                <p>To access or use zenpsychiatry.com or subdomain my.zenpsychiatry.com, you must be 18 years of age or
+                <p>To access or use mindclaire.com or subdomain my.mindcliare.com, you must be 18 years of age or
                     older and have the proper power and authority to enter into this Privacy Policy. This Site is not
                     intended for users under the age of 18 and, in compliance with COPPA (Children’s Online Privacy
                     Protection Act) we do not knowingly collect or request any information from children under the age

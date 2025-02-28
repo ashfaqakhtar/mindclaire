@@ -1,5 +1,5 @@
 <?php
-$title = "Mindclaire | Education";
+$title = "Mindclaire | Media Mentions";
 $meta = "";
 $metakeyword = "";
 include "header.php";
@@ -9,9 +9,11 @@ include "header.php";
 
 <div class="container mobile_display_none ">
     <div class="row">
-        <div class="col-md-12 education-banner">
-            <div class="blog-title">
-                <h1>Media Mentions</h1>
+        <div class="col-md-12">
+            <div class="education-banner">
+                <div class="blog-title">
+                    <h1>Media Mentions</h1>
+                </div>
             </div>
         </div>
     </div>
@@ -41,7 +43,7 @@ include "header.php";
                     <h1 class="three-line">Dr. Ritu Goel Honored in Marquis Who’s Who – Ritu Goel_ Feature</h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Occams Advisory celebrates Dr. Ritu Goel’s recognition in Marquis Who’s Who for
+                    <p class="five-line">MindClaire celebrates Dr. Ritu Goel’s recognition in Marquis Who’s Who for
                         her outstanding contributions to mental health care and her role as our Executive Advisor for
                         Wellness Initiatives.</p>
                 </div>
@@ -66,7 +68,7 @@ include "header.php";
 
 <div class="spacing"></div>
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12">
             <div class="index-ai-cta">
@@ -130,7 +132,7 @@ include "header.php";
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 

@@ -10,7 +10,7 @@
     <!-- bootstrap  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 
     <!-- Jquery cdn  -->
     <script src="https://code.jquery.com/jquery-3.7.1.js"
@@ -46,7 +46,7 @@
                     <div class="col-md-3">
                         <div class="logo">
                             <a href="/"><img class="logo-icon"
-                                    src="./assets/img/icons/dr.ritu-mindcleair-logo.svg"></a>
+                                    src="https://mindclaire.com/assets/img/icons/dr.ritu-mindcleair-logo.svg"></a>
                         </div>
 
                     </div>
@@ -69,6 +69,8 @@
                                         <li><a class="tab-button-drop" href="blog">Blog</a></li>
                                         <li><a class="tab-button-drop" href="media-mentions">Media Mentions</a></li>
                                         <li><a class="tab-button-drop" href="resources">Resources</a></li>
+                                        <li><a class="tab-button-drop" href="events">Events</a></li>
+                                        <li><a class="tab-button-drop" href="press-release">Press Releases</a></li>
                                     </ul>
 
                                 </div>
@@ -97,7 +99,7 @@
                     <div class="mob-logo-box">
                         <a href="index">
                             <img class="-mob-logo-icon"
-                                src="./assets/img/icons/dr.ritu-mindcleair-logo.svg">
+                                src="https://mindclaire.com/assets/img/icons/dr.ritu-mindcleair-logo.svg">
                         </a>
                     </div>
                 </div>

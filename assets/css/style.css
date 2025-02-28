@@ -425,6 +425,13 @@ label {
     margin-bottom: 30px;
 }
 
+.edu-mob-pr {
+    background: url(../img/edu-mob-pr.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
 .about-banner h1 {
     padding: 195px 0px 210px 120px;
     color: #ffffff;
@@ -1386,6 +1393,15 @@ label {
 
 .education-banner {
     background: url(../img/edu-banner.webp);
+    margin: 120px 0px 50px 0px;
+    background-size: 100%;
+    background-position: center;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+}
+
+.education-banner-pr {
+    background: url(../img/edu-banner-pr.webp);
     margin: 120px 0px 50px 0px;
     background-size: 100%;
     background-position: center;

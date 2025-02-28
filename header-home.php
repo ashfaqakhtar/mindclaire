@@ -68,6 +68,8 @@
                                         <li><a href="blog">Blog</a></li>
                                         <li><a href="media-mentions">Media Mentions</a></li>
                                         <li><a href="resources">Resource</a></li>
+                                        <li><a href="events">Events</a></li>
+                                        <li><a href="press-release">Press Releases</a></li>
                                     </ul>
 
                                 </div>

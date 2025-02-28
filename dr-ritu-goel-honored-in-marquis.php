@@ -24,7 +24,7 @@ include "header.php";
 
                 <div class="blog-detail-body">
 
-                    <p>Occams Advisory celebrates Dr. Ritu Goel’s recognition in Marquis Who’s Who for her outstanding
+                    <p>MindClaire celebrates Dr. Ritu Goel’s recognition in Marquis Who’s Who for her outstanding
                         contributions to mental health care and her role as our Executive Advisor for Wellness
                         Initiatives.</p>
 
