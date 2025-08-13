@@ -1,9 +1,11 @@
 <?php
-$title = "Ritu Goel, MD | MindClaire – Integrative Psychiatry Services in Long Beach, CA";
-$meta = "Discover personalized integrative psychiatry services for children, adolescents, and adults in Long Beach, CA at MindClaire. An integrative psychiatry private practice, led by Dr. Ritu Goel, offers comprehensive mental health solutions to address anxiety, depression, ADHD, autism, and more. Together, we nurture mental wellness by harmoniously integrating the wisdom of traditional psychiatry with the personalized touch of holistic healing methods.";
+$title = "Holistic Mental Wellness Treatment & Integrative Psychiatric Services Long Beach, CA | Mind Claire";
+$meta = "Mindclaire, Ritu Goel MD. provides personalized Mental care, healing & treatment consultation in California for children, teens, young adults, Parents & Guardian";
 $metakeyword = "Integrative psychiatry, mental health care, personalized treatment, child psychiatry, adolescent psychiatry, adult psychiatry, Dr. Ritu Goel, anxiety treatment, depression treatment, autism diagnosis, Autism therapy, holistic psychiatry, wellness platform, Long Beach, California. ";
 include "header-home.php";
 ?>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 <section class="background-cover slick_1 mobile_display_none">
     <!-- Slide 1 -->
@@ -64,37 +66,37 @@ include "header-home.php";
 
 <section class="background-cover slick_1 mobile_display_block">
 
-    <div class="slide slide--2">
-        <div class="container-fluid header_bg_2 " style="position: relative;">
-            <video autoplay muted loop class="video-bg">
-                <source src="https://mindclaire.com/assets/video/mindclaire_banner_mobile.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-            <div class="container" style="height: 110vh; position: relative; z-index: 1; bottom:-268px;">
-                <div class="row home-banner-box">
-                    <div class="col-md-6">
-                        <div class="home-banner-first">
-                            <h2>Mindclaire AI Wellness <br> Plan for MSMEs's</h2>
-                        </div>
-                        <a href="ai_wellness" class="banner_cta_space"><img class="img-fluid"
-                                src="assets/img/ai_wellness_cta.png" alt="Call to Action"></a>
+    <!--<div class="slide slide--2">-->
+    <!--    <div class="container-fluid header_bg_2 " style="position: relative;">-->
+    <!--        <video autoplay muted loop class="video-bg">-->
+    <!--            <source src="https://mindclaire.com/assets/video/mindclaire_banner_mobile.mp4" type="video/mp4">-->
+    <!--            Your browser does not support the video tag.-->
+    <!--        </video>-->
+    <!--        <div class="container" style="height: 110vh; position: relative; z-index: 1; bottom:-268px;">-->
+    <!--            <div class="row home-banner-box">-->
+    <!--                <div class="col-md-6">-->
+    <!--                    <div class="home-banner-first">-->
+    <!--                        <h2>Mindclaire AI Wellness <br> Plan for MSMEs's</h2>-->
+    <!--                    </div>-->
+    <!--                    <a href="ai_wellness" class="banner_cta_space"><img class="img-fluid"-->
+    <!--                            src="assets/img/ai_wellness_cta.png" alt="Call to Action"></a>-->
 
                         <!-- <h5 class="home_page_sub">
-                            Revolutionizing employee wellness with AI-driven insights and personalized care. Enhance
-                            well-being, productivity, and job satisfaction.
-                        </h5> -->
-                        <h5 class="home_page_sub">
-                            Revolutionizing employee wellness with AI-driven insights and personalized care. Enhance
-                            well-being, productivity, and job satisfaction.
-                        </h5>
-                    </div>
-                    <div class="col-md-6">
+    <!--                        Revolutionizing employee wellness with AI-driven insights and personalized care. Enhance-->
+    <!--                        well-being, productivity, and job satisfaction.-->
+    <!--                    </h5> -->-->
+    <!--                    <h5 class="home_page_sub">-->
+    <!--                        Revolutionizing employee wellness with AI-driven insights and personalized care. Enhance-->
+    <!--                        well-being, productivity, and job satisfaction.-->
+    <!--                    </h5>-->
+    <!--                </div>-->
+    <!--                <div class="col-md-6">-->
 
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</div>-->
 
     <!-- Slide 1 -->
     <div class="slide slide--1">
@@ -136,7 +138,7 @@ include "header-home.php";
     <div class="row">
         <div class="col-md-12 col-lg-5">
             <div class="ritu-image mobile_display_none">
-                <img src="./assets/img/ritu_12.webp" alt="ritu_pic" class="img-fluid">
+                <img src="./assets/img/ritu_12.webp" alt="Ritu Goel MD. - Mental Wellness" class="img-fluid">
             </div>
             <div class="ritu-image mobile_display_block">
                 <img class="img-fluid" src="./assets/img/ritu-image-mob.webp" alt="ritu_pic">
@@ -145,8 +147,8 @@ include "header-home.php";
         <div class="col-md-12 col-lg-7">
             <div class="ritu-bio">
                 <h6 style="padding: 10px 0px;">Hi, I’m</h6>
-                <h2 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD.</span>
-                </h2>
+                <h1 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD.</span>
+                </h1>
                 <p>Welcome to my practice, MindClaire. I’m an integrative psychiatrist who believes in nurturing
                     mental wellness by harmoniously integrating the wisdom of traditional psychiatry with the
                     personalized touch of holistic healing methods.
@@ -173,8 +175,7 @@ include "header-home.php";
     <div class="row">
         <div class="col-md-12">
             <div class="home-sticker-title">
-                <h1 class="heading">As Featured <span>In:</span></h1>
-                <h1></h1>
+                <h2 class="heading">As Featured <span>In:</span></h2>
             </div>
         </div>
     </div>
@@ -183,31 +184,31 @@ include "header-home.php";
             <div class="home-sticker">
 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/Cambridge_1.webp" alt="camb-sticker">
+                    <img src="./assets/img/Cambridge_1.webp" alt="Mindclaire featured in Cambridge Press">
                 </div>
                 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/Taylor.webp" alt="advanc-sticker">
+                    <img src="./assets/img/Taylor.webp" alt="Mindclaire featured in Taylor & Francis Group">
                 </div>
 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/FBC-Web-Horiz-Blue.webp" alt="forbes">
+                    <img src="./assets/img/FBC-Web-Horiz-Blue.webp" alt="Mindclaire featured in Forbes">
                 </div>
 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/Current_1.webp" alt="currnt-stikcer">
+                    <img src="./assets/img/Current_1.webp" alt="Mindclaire featured in Current Psychiatry">
                 </div>
                 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/Psycology-today_1.webp" alt="psy-sticker">
+                    <img src="./assets/img/Psycology-today_1.webp" alt="Mindclaire Featured in Psychology Today">
                 </div>
 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/Honored-Listee_1.webp" alt="current">
+                    <img src="./assets/img/Honored-Listee_1.webp" alt="Mindclaire featured in Marques Who's Who">
                 </div>
 
                 <div class="home-sticker-box">
-                    <img src="./assets/img/integrative.webp" alt="current">
+                    <img src="./assets/img/integrative.webp" alt="Mindclaire featured in Integrative Psychiatry Training">
                 </div>
 
             </div>
@@ -220,7 +221,7 @@ include "header-home.php";
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1 class="heading">My Areas of <span>Focus</span></h1>
+            <h2 class="heading">My Areas of <span>Focus</span></h2>
         </div>
     </div>
     <div class="row">
@@ -291,7 +292,7 @@ include "header-home.php";
 <div class="container" id="my-approach">
     <div class="row">
         <div class="col-md-12">
-            <h1 class="heading">My <span>Approach</span></h1>
+            <h2 class="heading">My <span>Approach</span></h2>
             <p class="approach_p">MindClaire is a haven for those of you who face the invisible battles of mental
 
                 health challenges daily. If traditional approaches have left you seeking more, my integrative methods
@@ -446,7 +447,7 @@ include "header-home.php";
         <div class="row">
             <div class="col-md-12">
                 <div class="ai-box-slider">
-                    <h1>Why Choose MindClaire AI Wellness Plan?</h1>
+                    <h2>Why Choose MindClaire AI Wellness Plan?</h2>
                 </div>
             </div>
         </div>
@@ -457,7 +458,7 @@ include "header-home.php";
         <div class="row">
             <div class="col-md-12">
                 <div class="ai-box-slider">
-                    <h1>Why Choose MindClaire AI Wellness Plan?</h1>
+                    <h2>Why Choose MindClaire AI Wellness Plan?</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-lg-6">
@@ -483,7 +484,7 @@ include "header-home.php";
         <div class="row">
             <div class="col-md-12">
                 <div class="ai-box-slider">
-                    <h1>Personalized and Preventive Care</h1>
+                    <h2>Personalized and Preventive Care</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-lg-6">
@@ -527,7 +528,7 @@ include "header-home.php";
     <div class="row calen-align-mob">
         <div class="col-md-10 mx-auto">
             <div class="calnder-box">
-                <h1 class="heading">Schedule a <span>free 15 minute Consultation</span></h1>
+                <h2 class="heading">Schedule a <span>free 15 minute Consultation</span></h2>
                 <p>I offer a free 15-min consultation call to learn more about you and your treatment goals to see
                     if we
                     would be a good fit. Please be sure to read over my services page to learn more about my
@@ -600,6 +601,7 @@ include "header-home.php";
                     </div>
                     <div class="row mb-2 mt-4">
                         <div class="col-12">
+                                  <div class="g-recaptcha mb-2" data-sitekey="6Leb7wErAAAAAAb8BewzAqgfyODCoTTy712uOOw3"></div>
                             <button type="submit" name="submit" id="send" class="form-send dark_cta">Send</button>
                         </div>
                     </div>
@@ -781,10 +783,36 @@ include 'footer-home.php';
 
 
 <?php
-
 if (isset($_POST['submit'])) {
     $mailto = "bipin.singh@occamsadvisory.com, ritu.goel@mindclaire.com";
     $fromEmail = "info@mindclaire.com";
+    
+    // Google reCAPTCHA Secret Key
+    $secretKey = "6Leb7wErAAAAAL49Gw92HH9We46gc-59_ViGGkGq";
+    $captchaResponse = $_POST["g-recaptcha-response"];
+
+    // Verify reCAPTCHA
+    $verifyURL = "https://www.google.com/recaptcha/api/siteverify";
+    $data = [
+        "secret" => $secretKey,
+        "response" => $captchaResponse
+    ];
+
+    $options = [
+        "http" => [
+            "header" => "Content-type: application/x-www-form-urlencoded",
+            "method" => "POST",
+            "content" => http_build_query($data)
+        ]
+    ];
+    $context = stream_context_create($options);
+    $result = file_get_contents($verifyURL, false, $context);
+    $responseKeys = json_decode($result, true);
+
+    if (!$responseKeys["success"]) {
+        echo "<script>alert('reCAPTCHA verification failed. Please try again.');</script>";
+        exit;
+    }
 
     // Sanitize input data
     $first_name = htmlspecialchars($_POST['first_name']);
@@ -812,7 +840,6 @@ if (isset($_POST['submit'])) {
     // PHP mailer function
     $result1 = mail($mailto, $subject, $message, $headers);
 
-
     if ($result1) {
         echo "<script>alert('Your message was sent successfully!');</script>";
     } else {
@@ -820,6 +847,7 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
+
 <style type="text/css">
     @media only screen and (min-width:1900px) and (max-width:3000px) {
         .home-banner-box {

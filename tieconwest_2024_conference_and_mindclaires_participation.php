@@ -1,6 +1,6 @@
 <?php
 $title = "TieConWest 2024 Conference and MindClaire’s participation";
-$meta = "";
+$meta = "Explore MindClaire's involvement in TIEConWest 2024, contributing to discussions on entrepreneurship, innovation, and leadership.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>TieConWest 2024 Conference and MindClaire’s participation</h1>
-                    <p>by Ritu Goel | October 25, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | October 25, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

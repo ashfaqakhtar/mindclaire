@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Case Study: Comprehensive Integrative Treatment Approach in a child with autism.";
-$meta = "";
+$meta = "Embark on a path to emotional understanding and resilience with MindClaire's resources and support for emotional health.";
 $metakeyword = "Inside Out 2 review, Inside Out 2 summary, Emotional intelligence for kids, Pixar Inside Out sequel, Movie for kids about emotions, Child psychiatry movie review, Movies to teach kids about emotions, 	Inside Out 2 for families, Emotions education for children, Anxiety in adolescence, Autism and emotional learning, Understanding childhood emotions, Family movie night recommendations";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>A Journey Through Emotions - A Child Psychiatrist's Perspective</h1>
-                    <p>by RItu Goel | June 18, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | June 18, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

@@ -1,6 +1,6 @@
 <?php
 $title = "MindClaire | Acceptable Use Policy";
-$meta = "";
+$meta = "Review MindClaire’s Acceptable Use Policy to understand the guidelines and restrictions for using our platform responsibly and safely.";
 $metakeyword = "";
 include "header.php";
 ?>

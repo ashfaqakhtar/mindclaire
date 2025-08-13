@@ -1,6 +1,6 @@
 <?php
 $title = "MindClaire | ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry Treatments";
-$meta = "";
+$meta = "Gain insights into Attention Deficit Hyperactivity Disorder (ADHD) in children, including symptoms, diagnosis, and effective management strategies.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry Treatments</h1>
-                    <p>by RItu Goel | May 17, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | May 17, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

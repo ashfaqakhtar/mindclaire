@@ -1,6 +1,6 @@
 <?php
 $title = "Dr Ritu Goel- A Journey of Courage";
-$meta = "";
+$meta = "Explore the inspiring journey of Dr. Ritu Goel, highlighting her courage and commitment to mental health advocacy and care.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr Ritu Goel- A Journey of Courage </h1>
-                    <p>by Ritu Goel | May 07, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | May 07, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

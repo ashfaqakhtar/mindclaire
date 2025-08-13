@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Case Study: Comprehensive Integrative Treatment Approach in a child with autism.";
-$meta = "";
+$meta = "Learn about MindClaire's holistic treatment strategies for children with autism, integrating medical, therapeutic, and developmental support.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Case Study: Comprehensive Integrative Treatment Approach in a child with autism.</h1>
-                    <p>by RItu Goel | June 11, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | June 11, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">
@@ -127,9 +127,12 @@ include "header.php";
 
 
 <div class="spacing"></div>
+
 <?php
 include 'footer.php';
 ?>
+
+
 <style>
     .nav a {
         color: #000000;

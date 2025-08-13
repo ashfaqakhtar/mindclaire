@@ -1,6 +1,6 @@
 <?php
 $title = "Dr. Ritu Goel- Why Managers need to be self aware in todays corporate world";
-$meta = "";
+$meta = "Understand why self-awareness is crucial for managers in today's corporate world, with insights from Dr. Ritu Goel.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr. Ritu Goel- Why Managers need to be self aware in todays corporate world</h1>
-                    <p>by Ritu Goel | October 10, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | October 10, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

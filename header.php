@@ -2,15 +2,35 @@
 <html lang="en">
 
 <head>
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NN3GTK5N');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <meta name="google-site-verification" content="h-HIAlup3UUHq6nmoKOlWZGj3roZ7E4hMbiES3z1Po4" />
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
     <link rel="shortcut icon" href="./assets/img/icons/Fevicon.svg" type="image/x-icon">
+
+
+    <link rel="stylesheet" href="./assets/css/style.css">
 
 
     <!-- bootstrap  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://mindclaire.com/assets/css/style.css"> -->
 
     <!-- Jquery cdn  -->
     <script src="https://code.jquery.com/jquery-3.7.1.js"
@@ -35,7 +55,13 @@
     </title>
     <meta name="description" content=" <?php echo $meta; ?>" />
     <meta name="keywords" content="<?php echo $metakeyword; ?>">
+
 </head>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NN3GTK5N" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 <div class="container nav_mobile_display_none">
@@ -53,7 +79,7 @@
                     <div class="col-md-9">
                         <ul class="nav justify-content-end align-items-center">
                             <li class="nav-item">
-                                <a class="nav-link tab-button" aria-current="page" href="/">Home</a>
+                                <a class="nav-link tab-button" aria-current="page" href="/" id="home">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link tab-button" aria-current="page" href="about">About</a>
@@ -67,10 +93,10 @@
                                 <div class="dropdown-res tab-drop">
                                     <ul>
                                         <li><a class="tab-button-drop" href="blog">Blog</a></li>
-                                        <li><a class="tab-button-drop" href="media-mentions">Media Mentions</a></li>
+                                        <li><a class="tab-button-drop" href="press_media">Press & Media</a></li>
                                         <li><a class="tab-button-drop" href="resources">Resources</a></li>
                                         <li><a class="tab-button-drop" href="events">Events</a></li>
-                                        <li><a class="tab-button-drop" href="press-release">Press Releases</a></li>
+                                        <!--<li><a class="tab-button-drop" href="press-release">Press Releases</a></li>-->
                                     </ul>
 
                                 </div>
@@ -91,7 +117,7 @@
 </div>
 
 
-<div class="container nav_mobile_display_block mob-nav-main fixed-top">
+<div class="container nav_mobile_display_block mob-nav-main fixed-top mt-4">
     <div class="row ">
         <div class="col-sm-12">
             <div class="mob-logo-nav">
@@ -120,8 +146,27 @@
                     <ul class="mob-link">
                         <li><a class="" href="about">About</a></li>
                         <li><a class="" href="services">Services</a></li>
-                        <li><a class="" href="blog">Blog</a></li>
-                        <li><a class="" href="media-mentions">Media Mentions</a></li>
+                        <li class="has-dropdown">
+                            <a href="#" class="dropdown-toggle">Resource</a>
+                            <ul class="mobile-menu-dropdown">
+                                <li>
+                                    <a href="blog">Blog</a>
+                                </li>
+                                <li>
+                                    <a href="press_media">Press & Media</a>
+                                </li>
+                                <li>
+                                    <a href="resources">Resources</a>
+                                </li>
+                                <li class="last-menu"
+                                    style="color: black !important; background-color: white !important; border-radius: 0px !important; border-bottom: none !important;">
+
+                                    <a href="events" class="" style="color: black !important;">Events</a>
+
+                                </li>
+                            </ul>
+                        </li>
+
                         <li><a class="" href="faq">Faq's</a></li>
                         <li><a class="" href="contact">Contact</a></li>
                     </ul>
@@ -130,6 +175,29 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const dropdownToggle = document.querySelector(".dropdown-toggle");
+        const parentLi = dropdownToggle.closest(".has-dropdown");
+
+        dropdownToggle.addEventListener("click", function (e) {
+            e.preventDefault();
+            parentLi.classList.toggle("active");
+        });
+
+        // Close dropdown on outside click
+        document.addEventListener("click", function (e) {
+            if (!parentLi.contains(e.target)) {
+                parentLi.classList.remove("active");
+            }
+        });
+    });
+</script>
+
+
+
 
 
 <script>

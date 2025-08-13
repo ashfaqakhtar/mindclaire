@@ -1,6 +1,6 @@
 <?php
-$title = "MindClaire | Blogs";
-$meta = "";
+$title = "Blogs on Mental health & Integrated treatment";
+$meta = "Insights and guidance on integrative psychiatry, ADHD, autism, nutrition, and emotional wellness. MindClaire’s blog offers practical information to support mental health across all ages.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -10,7 +10,7 @@ include "header.php";
         <div class="col-md-12">
             <div class="blog-banner">
                 <div class="blog-title">
-                    <h1>Blog</h1>
+                    <h2>Blog</h2>
                 </div>
             </div>
         </div>
@@ -58,67 +58,132 @@ include "header.php";
     <div class="row">
 
         <!-- first bog  -->
-        <div class="col-md-3 tag-main-box" data-category="nutritions">
+        
+        <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/blog-thumb.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/understanding-ptsd-thumbnail.webp" alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and
-                        Holistic
-                        Approaches </h1>
+                    <h2 class="three-line">Unseen Battles: Understanding PTSD and the Path to Healing 
+                    </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Are you on the lookout for a compassionate, holistic approach to your or your
-                        child's or teen’s
-                        mental health challenges? Well, you've hit the jackpot! Integrative psychiatry is like the
-                        superhero of mental health care for everyone, combining the best of both worlds – traditional
-                        medical treatments and holistic healing methods. It's all about personalized care that
-                        addresses...</p>
+                    <p class="five-line">June marks National PTSD Awareness Month—a crucial reminder of the invisible struggles faced by millions worldwide. Post-Traumatic Stress Disorder (PTSD) is real, complex, and deeply impactful, affecting every aspect of an individual's life. Understanding its dynamics is the first step toward healing and support. 
+                    </p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="comprehensive-guide-to-integrative-child-psychiatry" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" tar alt=""></a>
+                    <a href="understanding-ptsd" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
+                </div>
+            </div>
+        </div>
+        
+        
+                <div class="col-md-3 tag-main-box" data-category="">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/thriving_blog.webp" alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Thriving Without Burning Out: 11 Habits for a More Aligned Life</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">In a world that glorifies hustle, it’s easy to believe that success means working harder, longer, and louder. But as a psychiatrist, entrepreneur, and coach to high-performing professionals, I’ve seen a different truth: real success comes from alignment. It’s about crafting habits that protect your energy, sharpen your focus, and let you thrive without the burnout. These 11 habits aren’t just about doing more—they’re about being more, in a way that feels purposeful and sustainable. 
+                    </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="thriving-without-burning-out" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 tag-main-box" data-category="">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/blog-6-profile.webp" alt="The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health Struggles">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health Struggles</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">She’s the top student, juggling school and side projects. He’s the executive who never misses a deadline. They’re the parents doing it all and still showing up smiling. On the outside, high achievers seem unstoppable. But behind the scenes? Many are running on fumes. 
+                    Welcome to the world of silent burnout—where success masks stress, and ambition hides anxiety. 
+                    Unlike traditional burnout, which often ends in collapse, silent burnout is sneakier. It’s a quiet, chronic erosion of energy and mental wellness—harder to spot, easier to dismiss. 
+                    But here's the thing: ignoring it doesn’t make it go away. Let’s unpack what it looks like, why it’s so common, and how to regain control. 
+                    </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="the-silent-burnout" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
                 </div>
             </div>
         </div>
 
 
         <!-- seconnd blog  -->
-        <div class="col-md-3 tag-main-box" data-category="adhd">
+        <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid"
-                        src="./assets/img/authentic-scene-young-person-undergoing-psychological-therapy.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/a-journey-through-emotions-thumb.webp" alt="A Journey Through Emotions - A Child Psychiatrist's Perspective">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
-                        Treatments</h1>
+                    <h2 class="three-line">A Journey Through Emotions - A Child Psychiatrist's Perspective</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">If you're concerned that your child or teen may have
-                        Attention-Deficit/Hyperactivity
-                        Disorder (ADHD), you're not alone. Many parents have questions and seek the best
-                        care for their young ones. I'm Dr. Ritu Goel, an integrative child and adolescent
-                        psychiatrist, and I'm here to guide you through understanding...</p>
+                    <p class="five-line">Summer break is here, and it's the perfect time for kids to unwind, have fun,
+                        and explore new experiences. While outdoor activities and vacations are a blast, there's also
+                        plenty of room for some quality indoor entertainment. If you're looking for a meaningful way to
+                        spend time with your kids that combines fun with valuable lessons, Disney-Pixar's Inside Out 2
+                        is a must-watch.
+                    </p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="adhd-in-children" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="journey-through-emotions" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
                 </div>
             </div>
         </div>
 
 
         <!-- third blog  -->
+        <div class="col-md-3 tag-main-box" data-category="nutritions">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/mom-dad-son-their-dog-play-with-plasticine-paint-home.webp"
+                        alt="Case Study: Comprehensive Integrative Treatment Approach in a child with
+                        autism">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Case Study: Comprehensive Integrative Treatment Approach in a child with
+                        autism.</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Background: XY, a nine-year-old boy diagnosed with ASD, exhibited severe
+                        anxiety,
+                        hyperactivity, and sleep disturbances. His parents were seeking a holistic approach to
+                        manage his symptoms as they felt traditional methods alone were not sufficient.
+                    </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="comprehensive-tntegrative-treatment-approach-in-a-child-with-autism" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- fourth blog  -->
         <div class="col-md-3 tag-main-box" data-category="autism">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/midsection-woman-holding-paper-white.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/midsection-woman-holding-paper-white.webp" alt="Integrative Psychiatry Practices for Children and Youth with Autism Spectrum
+                        Disorder">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Integrative Psychiatry Practices for Children and Youth with Autism Spectrum
-                        Disorder </h1>
+                    <h2 class="three-line">Integrative Psychiatry Practices for Children and Youth with Autism Spectrum
+                        Disorder </h2>
                 </div>
                 <div class="blog-text">
                     <p class="five-line">Navigating the world of Autism Spectrum Disorder (ASD) can be challenging for
@@ -130,62 +195,64 @@ include "header.php";
                 </div>
                 <div class="blog-readmore">
                     <a href="integrative-psychiatry-practices" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
-            </div>
-        </div>
-
-
-        <!-- fourth blog  -->
-        <div class="col-md-3 tag-main-box" data-category="nutritions">
-            <div class="blog-box">
-                <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/mom-dad-son-their-dog-play-with-plasticine-paint-home.webp"
-                        alt="">
-                </div>
-                <div class="blog-head">
-                    <h1 class="three-line">Case Study: Comprehensive Integrative Treatment Approach in a child with
-                        autism.</h1>
-                </div>
-                <div class="blog-text">
-                    <p class="five-line">Background: XY, a nine-year-old boy diagnosed with ASD, exhibited severe
-                        anxiety,
-                        hyperactivity, and sleep disturbances. His parents were seeking a holistic approach to
-                        manage his symptoms as they felt traditional methods alone were not sufficient.
-                    </p>
-                </div>
-                <div class="blog-readmore">
-                    <a href="comprehensive-tntegrative-treatment-approach-in-a-child-with-autism" target="_blank">Read
-                        More <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                            src="./assets/img/cta_arrow.svg" alt="Read More"></a>
                 </div>
             </div>
         </div>
 
         <!-- fifth blog  -->
 
-        <div class="col-md-3 tag-main-box" data-category="">
+        <div class="col-md-3 tag-main-box" data-category="adhd">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/a-journey-through-emotions-thumb.webp" alt="">
+                    <img class="img-fluid"
+                        src="./assets/img/authentic-scene-young-person-undergoing-psychological-therapy.webp" alt="ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
+                        Treatments">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">A Journey Through Emotions - A Child Psychiatrist's Perspective</h1>
+                    <h2 class="three-line">ADHD in Children, Adolescents, and Young Adults: Integrative Psychiatry
+                        Treatments</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Summer break is here, and it's the perfect time for kids to unwind, have fun,
-                        and explore new experiences. While outdoor activities and vacations are a blast, there's also
-                        plenty of room for some quality indoor entertainment. If you're looking for a meaningful way to
-                        spend time with your kids that combines fun with valuable lessons, Disney-Pixar's Inside Out 2
-                        is a must-watch.
-                    </p>
+                    <p class="five-line">If you're concerned that your child or teen may have
+                        Attention-Deficit/Hyperactivity
+                        Disorder (ADHD), you're not alone. Many parents have questions and seek the best
+                        care for their young ones. I'm Dr. Ritu Goel, an integrative child and adolescent
+                        psychiatrist, and I'm here to guide you through understanding...</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="journey-through-emotions.php" target="_blank">Read
-                        More <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                    <a href="adhd-in-children" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                            alt="Read More"></a>
                 </div>
             </div>
         </div>
 
+        <!-- sixth blog  -->
+
+        <div class="col-md-3 tag-main-box" data-category="nutritions">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/blog-thumb.webp" alt="Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and
+                        Holistic
+                        Approaches </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Are you on the lookout for a compassionate, holistic approach to your or your
+                        child's or teen’s
+                        mental health challenges? Well, you've hit the jackpot! Integrative psychiatry is like the
+                        superhero of mental health care for everyone, combining the best of both worlds – traditional
+                        medical treatments and holistic healing methods. It's all about personalized care that
+                        addresses...</p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="comprehensive-guide-to-integrative-child-psychiatry" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" tar alt="Read More"></a>
+                </div>
+            </div>
+        </div>
 
 
     </div>

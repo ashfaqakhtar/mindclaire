@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Disclaimer";
-$meta = "";
+$meta = "Review the terms governing your use of MindClaire's services. By accessing our platform, you agree to abide by these terms and conditions.";
 $metakeyword = "";
 include "header.php";
 ?>

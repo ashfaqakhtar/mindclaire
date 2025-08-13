@@ -1,6 +1,6 @@
 <?php
-$title = "About MindClaire | Meet Dr. Ritu Goel - Integrative Psychiatry Expert in Long Beach, CA ";
-$meta = "Learn more about MindClaire and Dr. Ritu Goel, an integrative psychiatry expert specializing in child, adolescent, and adult mental health care in Long Beach, California. Discover my commitment to personalized and holistic treatment.";
+$title = "About MindClaire | Meet Dr. Ritu Goel - Integrative Psychiatrist Long Beach";
+$meta = "Mindclaire, Ritu Goel MD. provides holistic healing, traditional psychiatry & AI-driven diagnostics that fosters growth, healing, relief from symptoms & overall wellness";
 $metakeyword = "Dr. Ritu Goel, integrative psychiatry expert, child psychiatry, adolescent psychiatry, adult psychiatry, personalized treatment, mental health care, holistic psychiatry, Long Beach, California. ";
 include "header.php";
 ?>
@@ -10,7 +10,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="about-banner">
-                <h1>About</h1>
+                <h2>About</h2>
             </div>
         </div>
     </div>
@@ -103,8 +103,8 @@ include "header.php";
         </div>
         <div class="col-md-6">
             <div class="about-middle-sect-text">
-                <h1><span class="black-text">My Path to </span><span class="purple-text-about">Psychiatry</span>
-                </h1>
+                <h2><span class="black-text">My Path to </span><span class="purple-text-about">Psychiatry</span>
+                </h2>
                 <p>My educational journey began in India, where I completed medical school and MD degree, followed
                     by advanced psychiatric training at the NHS in the UK, and further specialization; residency and
                     child and adolescent psychiatry fellowship in the United States at the University of Buffalo.
@@ -141,8 +141,8 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="about-slider">
-                <h1><span class="black-text">More Than a </span><span class="purple-text-about"> Psychiatrist</span>
-                </h1>
+                <h2><span class="black-text">More Than a </span><span class="purple-text-about"> Psychiatrist</span>
+                </h2>
             </div>
         </div>
     </div>
@@ -150,6 +150,29 @@ include "header.php";
     <div class="row">
         <div class="col-md-12 mx-auto">
             <div class="about-slider">
+
+                <!-- <div>
+                    <img class="" width="100%" src="./assets/img/mindclaire_pr_image (1).webp" alt="">
+                </div>
+
+                <div>
+                    <img class="" width="100%" src="./assets/img/mindclaire_pr_image (2).webp" alt="">
+                </div>
+
+
+                <div>
+                    <img class="" width="100%" src="./assets/img/mindclaire_pr_image (3).webp" alt="">
+                </div>
+
+                <div>
+                    <img class="" width="100%" src="./assets/img/mindclaire_pr_image (4).webp" alt="">
+                </div>
+
+                <div>
+                    <img class="" width="100%" src="./assets/img/mindclaire_pr_image (5).webp" alt="">
+                </div> -->
+
+
                 <div>
                     <img class="img-fluid" src="./assets/img/slider (1).webp" alt="">
                 </div>
@@ -171,7 +194,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12 mx-auto">
             <div class="slider-text">
-                <h1>Beyond the clinic, I am a storyteller, an adventurer, and a lifelong learner. Motherhood has been my
+                <h2>Beyond the clinic, I am a storyteller, an adventurer, and a lifelong learner. Motherhood has been my
                     most rewarding role, guiding two energetic boys through the wonders of soccer, baseball, tennis,
                     golf,
                     swimming, chess and more. Our family adventures, from ziplining, horseback riding to exploring local
@@ -183,7 +206,7 @@ include "header.php";
                     and
                     my holistic view of psychiatric care, emphasizing the importance of understanding each individual's
                     unique experiences.
-                </h1>
+                </h2>
             </div>
         </div>
     </div>
@@ -201,8 +224,8 @@ include "header.php";
         </div>
         <div class="col-md-6 d-flex align-items-center">
             <div class="about-middle-sect-text">
-                <h1><span class="black-text">A Unique Approach to </span><span class="purple-text-about">Healing</span>
-                </h1>
+                <h2><span class="black-text">A Unique Approach to </span><span class="purple-text-about">Healing</span>
+                </h2>
                 <p>At MindClaire, I see beyond the symptoms. My approach integrates traditional psychiatric care
                     with nutraceuticals, nutrition, therapy, and innovative treatments like AI-driven diagnostics and
                     complementary therapies, including Ayurveda and meditation. I believe in empowering our patients
@@ -224,8 +247,8 @@ include "header.php";
         </div>
         <div class="col-md-6 d-flex align-items-center">
             <div class="about-middle-sect-text">
-                <h1><span class="black-text">My </span><span class="purple-text-about">Belief</span>
-                </h1>
+                <h2><span class="black-text">My </span><span class="purple-text-about">Belief</span>
+                </h2>
                 <p>I am driven by the conviction that mental wellness should be accessible, holistic, and deeply
                     respectful of the individual's journey. This belief is at the core of my practice, where I
                     strive to blend the best of medical science with a deep respect for the psychological, social,
@@ -253,7 +276,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="good-fit">
-                <h1>Think we would be a good fit?</h1>
+                <h3>Think we would be a good fit?</h3>
                 <h2>Explore more about my practice and how we can work together for your mental well-being</h2>
                 <div class="text-center good-fit-cta">
                     <a href="services#serv-appont">Learn More About My Approach </a>
@@ -269,7 +292,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="credin">
-                <h1><span class="black-text">My </span><span class="purple-text-about">Credentials </span>
+                <h2><span class="black-text">My </span><span class="purple-text-about">Credentials </span></h2>
             </div>
         </div>
     </div>
@@ -298,7 +321,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="credin">
-                <h1><span class="black-text">My </span><span class="purple-text-about">Publications </span>
+                <h2><span class="black-text">My </span><span class="purple-text-about">Publications </span></h2>
             </div>
         </div>
     </div>

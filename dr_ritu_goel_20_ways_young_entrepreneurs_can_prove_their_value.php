@@ -1,6 +1,6 @@
 <?php
 $title = "Dr. Ritu Goel - 20 Ways Young Entrepreneurs Can Prove Their Value";
-$meta = "";
+$meta = "Gain insights from Dr. Ritu Goel on how young entrepreneurs can demonstrate their value and make impactful contributions to their industries.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr. Ritu Goel - 20 Ways Young Entrepreneurs Can Prove Their Value</h1>
-                    <p>by Ritu Goel | October 15, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | October 15, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

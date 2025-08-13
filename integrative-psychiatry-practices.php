@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Integrative Psychiatry Practices for Children and Youth with Autism Spectrum Disorder";
-$meta = "";
+$meta = "Discover MindClaire's integrative approach to psychiatry, combining traditional and alternative therapies for comprehensive mental health treatment.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Integrative Psychiatry Practices for Children and Youth with Autism Spectrum Disorder</h1>
-                    <p>by RItu Goel | May 28, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | May 28, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

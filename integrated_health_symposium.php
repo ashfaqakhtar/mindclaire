@@ -1,6 +1,6 @@
 <?php
 $title = "Integrated Health Symposium:  Mindclaire with Advanced Integrated Health. ";
-$meta = "";
+$meta = "Join the Integrated Health Symposium by MindClaire, exploring innovative approaches to holistic and integrative healthcare practices.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Integrated Health Symposium:  Mindclaire with Advanced Integrated Health. </h1>
-                    <p>by Ritu Goel | November 12, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | November 12, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

@@ -3,7 +3,7 @@
         <div class="row d-flex justify-content-end">
             <div class="col-md-3">
                 <div class="left-footer">
-                    <img class="img-fluid" src="./assets/img/MindClaire_Logo.png" alt="">
+                    <img class="img-fluid" src="./assets/img/MindClaire_Logo.png" alt="Mindclaire-holistic mental wellness logo">
                 </div>
             </div>
             <div class="col-md-9 right-footer">
@@ -124,6 +124,7 @@
 
 <script src="./assets/js/slick.js"></script>
 <script src="./assets/js/tracker.js"></script>
+
 
 </body>
 

@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Press Releases";
-$meta = "";
+$meta = "Stay updated with MindClaire's latest press releases, featuring news, achievements, and initiatives in mental health and community engagement.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -33,7 +33,10 @@ include "header.php";
 
 <div class="container">
     <div class="row">
-     
+
+
+       
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
@@ -43,13 +46,14 @@ include "header.php";
                     <h1 class="three-line">Dr.Ritu Goel- TieSoCal Charter Member</h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel -child and adolescent psychiatrist with 20+ years of global experience<br> pioneers AI-Driven Mental Wellness Startup.</p>
+                    <p class="five-line">Dr. Ritu Goel -child and adolescent psychiatrist with 20+ years of global
+                        experience<br> pioneers AI-Driven Mental Wellness Startup.</p>
                 </div>
                 <br>
                 <br>
                 <div class="blog-readmore">
-                    <a href="dr_ritu_goel_tiesocal_charter_member.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="dr_ritu_goel_tiesocal_charter_member.php" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -63,11 +67,12 @@ include "header.php";
                     <h1 class="three-line">Honoring Dr. Ritu Goel for Expertise in Mental Health Care</h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel's selection for inclusion in Marquis Who's Who, recognizing her significant contributions and leadership in the field of mental health care.</p>
+                    <p class="five-line">Dr. Ritu Goel's selection for inclusion in Marquis Who's Who, recognizing her
+                        significant contributions and leadership in the field of mental health care.</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="honoring_dr_ritu_goel_for_expertise_in_mental_health_care.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="honoring_dr_ritu_goel_for_expertise_in_mental_health_care.php" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -81,12 +86,13 @@ include "header.php";
                     <h1 class="three-line">Dr Ritu Goel- A Journey of Courage </h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel discusses the integration of AI and mindfulness techniques in mental health care to enhance patient outcomes and overall well-being.</p>
+                    <p class="five-line">Dr. Ritu Goel discusses the integration of AI and mindfulness techniques in
+                        mental health care to enhance patient outcomes and overall well-being.</p>
                 </div>
                 <br>
                 <div class="blog-readmore">
-                    <a href="dr_ritu_goel_a_journey_of_courage.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="dr_ritu_goel_a_journey_of_courage.php" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -97,14 +103,16 @@ include "header.php";
                     <img class="img-fluid" src="/assets/img/pressrelease/pr_04.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Dr. Ritu Goel- Why Managers need to be self aware in todays corporate world</h1>
+                    <h1 class="three-line">Dr. Ritu Goel- Why Managers need to be self aware in todays corporate world
+                    </h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel discusses integrating emotional intelligence, resilience, and a growth mindset into executive strategy</p>
+                    <p class="five-line">Dr. Ritu Goel discusses integrating emotional intelligence, resilience, and a
+                        growth mindset into executive strategy</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="dr_ritu_goel-_why_managers_need_to_be_self_aware_in_todays_corporate_world.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="dr_ritu_goel-_why_managers_need_to_be_self_aware_in_todays_corporate_world.php"
+                        target="_blank">Read More <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -118,12 +126,13 @@ include "header.php";
                     <h1 class="three-line">Dr. Ritu Goel - 20 Ways Young Entrepreneurs Can Prove Their Value</h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr.Ritu Goel shares her insights and valuable tips for young entrepreneurs on proving their worth</p>
+                    <p class="five-line">Dr.Ritu Goel shares her insights and valuable tips for young entrepreneurs on
+                        proving their worth</p>
                 </div>
                 <br>
                 <div class="blog-readmore">
-                    <a href="dr_ritu_goel_20_ways_young_entrepreneurs_can_prove_their_value.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="dr_ritu_goel_20_ways_young_entrepreneurs_can_prove_their_value.php" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -137,11 +146,12 @@ include "header.php";
                     <h1 class="three-line">Pioneering Mental Health Advancements in our Digital Age </h1>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel explores groundbreaking advancements in mental health in the digital age in her Forbes Business Council article.</p>
+                    <p class="five-line">Dr. Ritu Goel explores groundbreaking advancements in mental health in the
+                        digital age in her Forbes Business Council article.</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="pioneering_mental_health_advancements_in_our_digital_age.php" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="pioneering_mental_health_advancements_in_our_digital_age.php" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>

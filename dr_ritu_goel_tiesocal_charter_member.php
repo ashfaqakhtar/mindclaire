@@ -1,6 +1,6 @@
 <?php
 $title = "Dr.Ritu Goel- TieSoCal Charter Member";
-$meta = "";
+$meta = "Meet Dr. Ritu Goel, a TIESoCal Charter Member dedicated to advancing mental health awareness and support in the community";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr.Ritu Goel- TieSoCal Charter Member</h1>
-                    <p>by Ritu Goel | May 07, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | May 07, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

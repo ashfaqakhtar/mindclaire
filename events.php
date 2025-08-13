@@ -1,6 +1,6 @@
 <?php
-$title = "Mindclaire | Events";
-$meta = "";
+$title = "Mindclaire Events";
+$meta = "Discover upcoming mental health workshops, retreats, and support groups at MindClaire. Join our events to enhance well-being, build community, and gain valuable insights.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -12,7 +12,7 @@ include "header.php";
         <div class="col-md-12">
             <div class="education-banner">
                 <div class="blog-title">
-                    <h1>Events</h1>
+                    <h2>Events</h2>
                 </div>
             </div>
         </div>
@@ -33,21 +33,62 @@ include "header.php";
 
 <div class="container">
     <div class="row">
-     
+        
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_01.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_11.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">MindClaire Fostering Entrepreneurship at TieSoCal held in Irvine, California.</h1>
+                    <h2 class="three-line">Meet & Greet with President Of Estonia </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Mindclaire, represented by Dr. Ritu Goel, participated in the TiE SoCal event in Irvine, California, on July 29th and 30th, 2022. The event focused on fostering entrepreneurship and provided a platform for networking and mentorship. </p>
+                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, visited the Office of the President of Estonia—celebrating leadership, culture, and global collaboration.</p>
+                        <br>
                 </div>
                 <div class="blog-readmore">
-                    <a href="mindClaire_fostering_entrepreneurship_at_tieSoCal_held_in_irvine" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="meet_&_greet_with_president" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_10.webp" alt="">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Tie Global Retreat  at Estonia - Dr Ritu Goel </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, joins global leaders at the TiE Global Retreat in Estonia—sharing insights on vision, legacy, and mental wellness, and meeting the President of Estonia.</p>
+                        <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="tie_global_retreat _at_estonia" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_09.webp" alt="">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">MindClaire Champions Hope & Courage at CHOC Gala 2025</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">MindClaire proudly supported the 2025 CHOC Gala, championing pediatric healthcare. The inspiring event celebrated stories of hope and featured captivating performances by Blake Shelton and MONTAGE!</p>
+                        <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="mindclaire-champions-hope-&-courage-at-choc-gala-2025" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -55,103 +96,160 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_02.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/sky-support.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">MindClaire as the Proud Sponsor for Saahas Cause Gala 2024</h1>
+                    <h2 class="three-line">MindClaire Supports SKY Campus: Breathe, Belong, Become</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Mindclaire proudly sponsored the Saahas for Cause Gala held in California on November 10th, 2024. The event celebrated community support and raised awareness for mental health initiatives</p>
+                    <p class="five-line">MindClaire proudly supports SKY Campus Happiness in its mission to enhance
+                        student mental wellness through breathwork, meditation, and resilience-building programs.</p>
+                        <br>
                 </div>
                 <div class="blog-readmore">
-                    <a href="mindclaire_as_the_proud_sponsor_for_saahas_cause_gala_2024" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="mindclaire-sky-support-campus" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-        
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_03.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_01.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024.</h1>
+                    <h2 class="three-line">MindClaire Fostering Entrepreneurship at TieSoCal held in Irvine, California.
+                    </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Mindclaire is proud to support the "EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024," a prestigious event dedicated to mentoring and empowering women founders. </p>
+                    <p class="five-line">Mindclaire, represented by Dr. Ritu Goel, participated in the TiE SoCal event
+                        in Irvine, California, on July 29th and 30th, 2022. The event focused on fostering
+                        entrepreneurship and provided a platform for networking and mentorship. </p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="tie_women_global_mentorship_&_pitch_competition_2024" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="mindClaire_fostering_entrepreneurship_at_tieSoCal_held_in_irvine" target="_blank">Read More
+                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-        
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_04.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_02.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Integrated Health Symposium:  Mindclaire with Advanced Integrated Health. </h1>
+                    <h2 class="three-line">MindClaire as the Proud Sponsor for Saahas Cause Gala 2024</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel, Founder and CEO of Mindclaire, was a distinguished speaker at the Integrated Health Symposium 2024. She shared her expertise in mental health and wellness, emphasizing innovative approaches to integrative psychiatry.</p>
+                    <p class="five-line">Mindclaire proudly sponsored the Saahas for Cause Gala held in California on
+                        November 10th, 2024. The event celebrated community support and raised awareness for mental
+                        health initiatives</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="integrated_health_symposium" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="mindclaire_as_the_proud_sponsor_for_saahas_cause_gala_2024" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-        
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_05.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_03.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Behavioral Health Technology 2024 at Phoenix, Arizona.</h1>
+                    <h2 class="three-line">EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024.</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel, Founder and CEO of Mindclaire, was a featured speaker at the Behavioral Health Technology 2024 conference held from November 5th to 7th, 2024, in Phoenix, Arizona. She highlighted Mindclaire's innovative use of AI in mental health care, emphasizing the importance of technology in improving patient outcomes. </p>
+                    <p class="five-line">Mindclaire is proud to support the "EmpowerHer: TiE Women Global Mentorship &
+                        Pitch Competition 2024," a prestigious event dedicated to mentoring and empowering women
+                        founders. </p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="behavioral_health_technology_2024_at_phoenix_arizona" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="tie_women_global_mentorship_&_pitch_competition_2024" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-        
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_06.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_04.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">TieConWest 2024 Conference and MindClaire’s participation.</h1>
+                    <h2 class="three-line">Integrated Health Symposium: Mindclaire with Advanced Integrated Health.
+                    </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Mindclaire, represented by Dr. Ritu Goel, participated in TieCon West 2024 on October 25th. Dr. Goel contributed significantly by sharing insights on the integration of AI in mental health care, highlighting Mindclaire's innovative approaches. </p>
+                    <p class="five-line">Dr. Ritu Goel, Founder and CEO of Mindclaire, was a distinguished speaker at
+                        the Integrated Health Symposium 2024. She shared her expertise in mental health and wellness,
+                        emphasizing innovative approaches to integrative psychiatry.</p>
                 </div>
                 <div class="blog-readmore">
-                    <a href="tieconwest_2024_conference_and_mindclaires_participation" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
+                    <a href="integrated_health_symposium" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-        
+
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/events/event_07.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/events/event_05.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h1 class="three-line">Forbes Business Council - Future Focused Leadership: Integrating Emotional, Intelligence, Resilience and a Growth Mindset in Executive Strategy Hosted by Mental Health Group Member Leader, Ronke Komolafe with Dr. Ritu Goel. </h1>
+                    <h2 class="three-line">Behavioral Health Technology 2024 at Phoenix, Arizona.</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel, as a part of Forbes Business Council, shares her insights on future-focused leadership, emphasizing adaptability, innovation, and the role of technology in shaping modern businesses. </p>
+                    <p class="five-line">Dr. Ritu Goel, Founder and CEO of Mindclaire, was a featured speaker at the
+                        Behavioral Health Technology 2024 conference held from November 5th to 7th, 2024, in Phoenix,
+                        Arizona. She highlighted Mindclaire's innovative use of AI in mental health care, emphasizing
+                        the importance of technology in improving patient outcomes. </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="behavioral_health_technology_2024_at_phoenix_arizona" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_06.webp" alt="">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">TieConWest 2024 Conference and MindClaire’s participation.</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Mindclaire, represented by Dr. Ritu Goel, participated in TieCon West 2024 on
+                        October 25th. Dr. Goel contributed significantly by sharing insights on the integration of AI in
+                        mental health care, highlighting Mindclaire's innovative approaches. </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="tieconwest_2024_conference_and_mindclaires_participation" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_07.webp" alt="">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Forbes Business Council - Future Focused Leadership: Integrating Emotional,
+                        Intelligence, Resilience and a Growth Mindset in Executive Strategy Hosted by Mental Health
+                        Group Member Leader, Ronke Komolafe with Dr. Ritu Goel. </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, as a part of Forbes Business Council, shares her insights on
+                        future-focused leadership, emphasizing adaptability, innovation, and the role of technology in
+                        shaping modern businesses. </p>
                 </div>
                 <div class="blog-readmore">
                     <a href="forbes_business_council" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"

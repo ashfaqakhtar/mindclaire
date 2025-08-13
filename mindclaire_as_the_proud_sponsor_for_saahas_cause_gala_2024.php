@@ -1,6 +1,6 @@
 <?php
 $title = "MindClaire | As the Proud Sponsor for Saahas Cause Gala 2024. ";
-$meta = "";
+$meta = "Join MindClaire in supporting the Saahas Cause Gala 2024, dedicated to mental health awareness and community well-being.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>MindClaire as the Proud Sponsor for Saahas Cause Gala 2024.</h1>
-                    <p>by Ritu Goel | November  10, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | November  10, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

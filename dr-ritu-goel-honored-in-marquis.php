@@ -1,6 +1,6 @@
 <?php
-$title = "MindClaire | Dr. Ritu Goel Honored in Marquis Who’s Who – Ritu Goel_ Feature";
-$meta = "";
+$title = "Dr. Ritu Goel Honored in Marquis Who's Who for Mental Health Excellence | MindClaire";
+$meta = "MindClaire celebrates Dr. Ritu Goel's recognition in Marquis Who's Who for outstanding mental health contributions as Executive Advisor & psychiatrist.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr. Ritu Goel Honored in Marquis Who’s Who – Ritu Goel_ Feature</h1>
-                    <p>by RItu Goel | May 8, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | May 8, 2024 | Press Releases | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

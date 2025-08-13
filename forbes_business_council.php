@@ -1,6 +1,6 @@
 <?php
 $title = "Forbes Business Council - Future Focused Leadership";
-$meta = "";
+$meta = "Discover MindClaire's contributions to the Forbes Business Council, sharing expertise on leadership, mental health, and business strategies.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Forbes Business Council - Future Focused Leadership: Integrating Emotional, Intelligence, Resilience and a Growth Mindset in Executive Strategy Hosted by Mental Health Group Member Leader, Ronke Komolafe with Dr. Ritu Goel. </h1>
-                    <p>by Ritu Goel | October  10, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | October  10, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

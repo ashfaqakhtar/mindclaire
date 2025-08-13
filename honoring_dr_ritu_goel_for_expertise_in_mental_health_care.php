@@ -1,6 +1,6 @@
 <?php
 $title = "Honoring Dr. Ritu Goel for Expertise in Mental Health Care";
-$meta = "";
+$meta = "Celebrate Dr. Ritu Goel's dedication and expertise in mental health care, recognizing her contributions to the field and community.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Honoring Dr. Ritu Goel for Expertise in Mental Health Care</h1>
-                    <p>by Ritu Goel | May 07, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | May 07, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

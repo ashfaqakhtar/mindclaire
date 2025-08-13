@@ -1,6 +1,6 @@
 <?php
 $title = "MindClaire | Privacy Policy";
-$meta = "";
+$meta = "Explore MindClaire's commitment to safeguarding your personal information. Understand how we collect, use, and protect your data in compliance with privacy laws.";
 $metakeyword = "";
 include "header.php";
 ?>

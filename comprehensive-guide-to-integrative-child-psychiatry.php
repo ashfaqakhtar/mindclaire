@@ -1,6 +1,6 @@
 <?php
 $title = "Mindclaire | Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches";
-$meta = "";
+$meta = "Explore MindClaire's comprehensive guide to integrative child psychiatry, focusing on holistic approaches to pediatric mental health.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -16,7 +16,7 @@ include "header.php";
                 <div class="detail-blog-head">
                     <h1>Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic
                         Approaches </h1>
-                    <p>by RItu Goel | May 8, 2024 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel | May 8, 2024 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

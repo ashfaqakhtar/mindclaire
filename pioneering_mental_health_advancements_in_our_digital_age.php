@@ -1,6 +1,6 @@
 <?php
 $title = "Pioneering Mental Health Advancements in our Digital Age";
-$meta = "";
+$meta = "Explore MindClaire's initiatives in advancing mental health care through digital innovations and modern therapeutic approaches.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Pioneering Mental Health Advancements in our Digital Age </h1>
-                    <p>by Ritu Goel | December 23, 2024 | Press Releases </p>
+                    <p>by Dr. Ritu Goel | December 23, 2024 | Press Releases </p>
                 </div>
 
                 <div class="blog-detail-img">

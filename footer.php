@@ -3,7 +3,7 @@
         <div class="row d-flex justify-content-end">
             <div class="col-md-3">
                 <div class="left-footer">
-                    <img class="img-fluid" src="https://mindclaire.com/assets/img/MindClaire_Logo.png" alt="">
+                    <img class="img-fluid" src="https://mindclaire.com/assets/img/MindClaire_Logo.png" alt="Mindclaire-holistic mental wellness logo">
                 </div>
             </div>
             <div class="col-md-9 right-footer">
@@ -17,10 +17,10 @@
                         </div>
                         <div class="inner-footer col">
                             <h4><a href="blog">Blog</a></h4>
-                            <h4><a href="media-mentions">Media Mentions</a></h4>
+                            <!--<h4><a href="media-mentions">Media Mentions</a></h4>-->
                             <h4><a href="resources">Resources</a></h4>
-                            <h4><a href="resources">Events</a></h4>
-                            <h4><a href="resources">Press Release</a></h4>
+                            <h4><a href="events">Events</a></h4>
+                            <h4><a href="press_media">Press Release</a></h4>
                         </div>
                         <div class="inner-footer col">
                             <h4><a href="contact">Contact</a></h4>
@@ -35,10 +35,10 @@
                         <div class="inner-footer col">
                             <h4>Connect With Us</h4>
                             <div class="footer-icons">
-                                <a href=""><i class="fa-brands fa-facebook"></i></a>
-                                <a href=""><i class="fa-brands fa-x-twitter"></i></a>
-                                <a href=""><i class="fa-brands fa-instagram"></i></a>
-                                <a href=""><i class="fa-brands fa-youtube"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=61560276094752&mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+                                <a href="https://www.tiktok.com/@mindclaire_?_t=ZP-8tPrGNlLrtG&_r=1"><i class="fa-brands fa-x-twitter"></i></a>
+                                <a href="https://www.instagram.com/mindclaire/"><i class="fa-brands fa-instagram"></i></a>
+                                <a href="https://youtube.com/@mindclaire?si=FA9swMC9rXvUkVoQ"><i class="fa-brands fa-youtube"></i></a>
                                 <a href="https://www.linkedin.com/company/mindclaire/" target="_blank"><i
                                         class="fa-brands fa-linkedin"></i></a>
                             </div>
@@ -124,6 +124,7 @@
 
 <script src="./assets/js/slick.js"></script>
 <script src="./assets/js/tracker.js"></script>
+
 
 </body>
 

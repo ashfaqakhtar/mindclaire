@@ -2,15 +2,32 @@
 <html lang="en">
 
 <head>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NN3GTK5N');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <meta name="google-site-verification" content="h-HIAlup3UUHq6nmoKOlWZGj3roZ7E4hMbiES3z1Po4" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
     <link rel="shortcut icon" href="./assets/img/icons/Fevicon.svg" type="image/x-icon">
 
 
     <!-- bootstrap  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="assets/css/style.css"> -->
+
+    <link rel="stylesheet" href="./assets/css/style.css">
 
     <!-- Jquery cdn  -->
     <script src="https://code.jquery.com/jquery-3.7.1.js"
@@ -34,13 +51,19 @@
         <?php echo $title; ?>
     </title>
     <style>
-        .logo img{
+        .logo img {
             height: 70px;
         }
     </style>
     <meta name="description" content=" <?php echo $meta; ?>" />
     <meta name="keywords" content="<?php echo $metakeyword; ?>">
+
 </head>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NN3GTK5N" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 <div class="container nav_mobile_display_none">
@@ -62,20 +85,21 @@
                                 <a class="nav-link" href="services">Services</a>
                             </li>
                             <li class="nav-item res-tab">
-                                <a class="nav-link" href="#">Resources <i class="fa-solid fa-chevron-down fa-xs"></i></a>
+                                <a class="nav-link" href="#">Resources <i
+                                        class="fa-solid fa-chevron-down fa-xs"></i></a>
                                 <div class="dropdown-res">
                                     <ul>
                                         <li><a href="blog">Blog</a></li>
-                                        <li><a href="media-mentions">Media Mentions</a></li>
+                                        <li><a href="press_media">Press & Media</a></li>
                                         <li><a href="resources">Resource</a></li>
                                         <li><a href="events">Events</a></li>
-                                        <li><a href="press-release">Press Releases</a></li>
+                                        <!--<li><a href="press-release">Press Releases</a></li>-->
                                     </ul>
 
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a  class="nav-link faq-cta" href="faq">FAQ’s</a>
+                                <a class="nav-link faq-cta" href="faq">FAQ’s</a>
                             </li>
                             <li class="">
                                 <a class=" dark_cta" href="contact">Contact</a>
@@ -96,8 +120,7 @@
                 <div class="mob-logo">
                     <div class="mob-logo-box">
                         <a href="index">
-                            <img class="-mob-logo-icon"
-                                src="./assets/img/icons/dr.ritu-mindcleair-logo.svg">
+                            <img class="-mob-logo-icon" src="./assets/img/icons/dr.ritu-mindcleair-logo.svg">
                         </a>
                     </div>
                 </div>
@@ -118,8 +141,26 @@
                     <ul class="mob-link">
                         <li><a class="" href="about">About</a></li>
                         <li><a class="" href="services">Services</a></li>
-                        <li><a class="" href="blog">Blog</a></li>
-                        <li><a class="" href="media-mentions">Media Mentions</a></li>
+                        <li class="has-dropdown">
+                            <a href="#" class="dropdown-toggle">Resource</a>
+                            <ul class="mobile-menu-dropdown">
+                                <li>
+                                    <a href="blog">Blog</a>
+                                </li>
+                                <li>
+                                    <a href="press_media">Press & Media</a>
+                                </li>
+                                <li>
+                                    <a href="resources">Resources</a>
+                                </li>
+                                <li class="last-menu"
+                                    style="color: black !important; background-color: white !important; border-radius: 0px !important; border-bottom: none !important;">
+
+                                    <a href="events"  style="color: black !important;">Events</a>
+
+                                </li>
+                            </ul>
+                        </li>
                         <li><a class="" href="faq">Faq's</a></li>
                         <li><a class="" href="contact">Contact</a></li>
                     </ul>
@@ -128,3 +169,23 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const dropdownToggle = document.querySelector(".dropdown-toggle");
+        const parentLi = dropdownToggle.closest(".has-dropdown");
+
+        dropdownToggle.addEventListener("click", function (e) {
+            e.preventDefault();
+            parentLi.classList.toggle("active");
+        });
+
+        // Close dropdown on outside click
+        document.addEventListener("click", function (e) {
+            if (!parentLi.contains(e.target)) {
+                parentLi.classList.remove("active");
+            }
+        });
+    });
+</script>

@@ -1,6 +1,6 @@
 <?php
 $title = "EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024";
-$meta = "";
+$meta = "Join the TIE Women Global Mentorship & Pitch Competition 2024, fostering innovation and leadership among women entrepreneurs worldwide.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024</h1>
-                    <p>by Ritu Goel | September 03, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | September 03, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

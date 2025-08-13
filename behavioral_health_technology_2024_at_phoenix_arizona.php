@@ -1,6 +1,6 @@
 <?php
 $title = "Behavioral Health Technology 2024 at Phoenix, Arizona";
-$meta = "";
+$meta = "Discover the latest advancements in behavioral health technology showcased at the 2024 conference in Phoenix, Arizona.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Behavioral Health Technology 2024 at Phoenix, Arizona</h1>
-                    <p>by Ritu Goel | November  03 to 07, 2024 | Events </p>
+                    <p>by Dr. Ritu Goel | November  03 to 07, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

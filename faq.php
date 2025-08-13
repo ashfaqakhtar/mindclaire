@@ -1,6 +1,6 @@
 <?php
-$title = "MindClaire | Faq's";
-$meta = "";
+$title = "MindClaire Faqs";
+$meta = "Find quick answers to common questions about our mental wellness services, policies, and support. Explore our FAQ to get the help you need, fast.";
 $metakeyword = "";
 include "header.php";
 ?>
@@ -222,7 +222,7 @@ include "header.php";
     <div class="row">
         <div class="col-md-12">
             <div class="faq-banner">
-                <h1>FAQ’s</h1>
+                <h2>FAQ’s</h2>
             </div>
         </div>
     </div>
