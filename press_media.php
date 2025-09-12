@@ -33,6 +33,187 @@ include "header.php";
 
 <div class="container">
     <div class="row">
+        <!-- Duloxetine in Your System: Expert Guidance by Dr. Ritu -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_22.webp" alt="pr_22">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Duloxetine in Your System: Expert Guidance by Dr. Ritu</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel shares expert insights on how long duloxetine (Cymbalta) stays in
+                        your system, what affects its duration, and what patients should know for safe use.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="duloxetine-in-your-system" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Psychotropics Are Tools, Not Villains: Dr. Ritu Goel's comment in JAMA Pediatrics -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_18.webp" alt="pr_18">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Psychotropics Are Tools, Not Villains: Dr. Ritu Goel's comment in JAMA
+                        Pediatrics
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, founder of Mindclaire, as featured in JAMA Pediatrics,
+                        emphasizes the importance of balanced, evidence-based care, where medication is one tool among a
+                        range of holistic treatments.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="psychotropics-are-tools-not-villains" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Depression & Herbs: What St. John’s Wort can do – Dr. Ritu Goel explains. -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_17.webp" alt="pr_17">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Depression & Herbs: What St. John’s Wort can do – Dr. Ritu Goel explains.
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel explores the potential benefits and risks of St. John’s Wort for
+                        depression. Learn how this popular herbal supplement may affect serotonin and mental health</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="depression-and-herbs" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                            alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Beyond Perfection: Redefining Success for Women in Leadership. -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_15.webp" alt="pr_15">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Beyond Perfection: Redefining Success for Women in Leadership.</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">The above article highlights how chasing flawlessness fuels burnout, and why
+                        self-compassion and a growth mindset help women achieve sustainable success without sacrificing
+                        their wellbeing.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="redefining-success-for-women-in-leadership" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dr. Ritu Goel on Clutter and Mental Health -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_20.webp" alt="pr_20">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Dr. Ritu Goel on Clutter and Mental Health</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel shares how clutter impacts moms emotionally and offers simple
+                        steps to reclaim calm, balance, and peace at home</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="clutter-and-mental-health" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                            alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Women’s Mental Health Matters: Insights from Dr. Ritu Goel -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_21.webp" alt="pr_21">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Women’s Mental Health Matters: Insights from Dr. Ritu Goel</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel shares insights on women’s mental health, emotional burdens, and
+                        strategies to support well-being and reduce stress.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="women-mental-health-matters" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Thinking of Stopping Antidepressants? Dr. Ritu Shares the Safe Path -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_16.webp" alt="pr_16">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Thinking of Stopping Antidepressants? Dr. Ritu Shares the Safe Path</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel shares guidance on safely stopping antidepressants, emphasizing
+                        gradual tapering, self-care, and professional support to protect mental well-being during the
+                        transition.</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="thinking-of-stopping-antidepressants" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Choosing Venlafaxine Wisely: Dr. Ritu Goel’s Expert Insight -->
+        <div class="col-md-4">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_19.webp" alt="pr_19">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Choosing Venlafaxine Wisely: Dr. Ritu Goel’s Expert Insight</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel breaks down low vs. high doses of Venlafaxine, explaining how the
+                        right approach can maximize benefits and minimize risks for mental health</p>
+                    <br>
+                    <br>
+                </div>
+                <div class="blog-readmore">
+                    <a href="choosing-venlafaxine-wisely" target="_blank">Read More <img
+                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
 
         <!-- Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire. -->
         <div class="col-md-4">
@@ -41,10 +222,12 @@ include "header.php";
                     <img class="img-fluid" src="assets/img/pressrelease/pr-forbes.webp" alt="pr-forbes">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.</h2>
+                    <h2 class="three-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.
+                    </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.</p>
+                    <p class="five-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.
+                    </p>
                     <br>
                     <br>
                 </div>
@@ -428,7 +611,7 @@ include 'footer.php';
 ?>
 
 <style>
-    .nav a {
-        color: #000000;
-    }
+.nav a {
+    color: #000000;
+}
 </style>
