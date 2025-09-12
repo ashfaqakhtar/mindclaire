@@ -48,9 +48,9 @@ include "header.php";
                     <br>
                     <br>
                 </div>
-                <div class="blog-readmore">
-                    <a href="duloxetine-in-your-system" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
+                <div class="blog-readmore mt-3">
+                    <a href="duloxetine-in-your-system" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                            alt=""></a>
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@ include "header.php";
                     <img class="img-fluid" src="assets/img/pressrelease/pr_18.webp" alt="pr_18">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">Psychotropics Are Tools, Not Villains: Dr. Ritu Goel's comment in JAMA
+                    <h2 class="three-line">Psychotropics Are Tools, Not Villains: <br> Dr. Ritu Goel's comment in JAMA
                         Pediatrics
                     </h2>
                 </div>
@@ -70,10 +70,8 @@ include "header.php";
                     <p class="five-line">Dr. Ritu Goel, founder of Mindclaire, as featured in JAMA Pediatrics,
                         emphasizes the importance of balanced, evidence-based care, where medication is one tool among a
                         range of holistic treatments.</p>
-                    <br>
-                    <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-1">
                     <a href="psychotropics-are-tools-not-villains" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -96,7 +94,7 @@ include "header.php";
                     <br>
                     <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-3">
                     <a href="depression-and-herbs" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
                             alt=""></a>
                 </div>
@@ -116,8 +114,6 @@ include "header.php";
                     <p class="five-line">The above article highlights how chasing flawlessness fuels burnout, and why
                         self-compassion and a growth mindset help women achieve sustainable success without sacrificing
                         their wellbeing.</p>
-                    <br>
-                    <br>
                 </div>
                 <div class="blog-readmore">
                     <a href="redefining-success-for-women-in-leadership" target="_blank">Read More <img
@@ -140,8 +136,9 @@ include "header.php";
                         steps to reclaim calm, balance, and peace at home</p>
                     <br>
                     <br>
+                    <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-3">
                     <a href="clutter-and-mental-health" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
                             alt=""></a>
                 </div>
@@ -163,7 +160,7 @@ include "header.php";
                     <br>
                     <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-1">
                     <a href="women-mental-health-matters" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -183,8 +180,6 @@ include "header.php";
                     <p class="five-line">Dr. Ritu Goel shares guidance on safely stopping antidepressants, emphasizing
                         gradual tapering, self-care, and professional support to protect mental well-being during the
                         transition.</p>
-                    <br>
-                    <br>
                 </div>
                 <div class="blog-readmore">
                     <a href="thinking-of-stopping-antidepressants" target="_blank">Read More <img
@@ -205,8 +200,6 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel breaks down low vs. high doses of Venlafaxine, explaining how the
                         right approach can maximize benefits and minimize risks for mental health</p>
-                    <br>
-                    <br>
                 </div>
                 <div class="blog-readmore">
                     <a href="choosing-venlafaxine-wisely" target="_blank">Read More <img
@@ -239,7 +232,6 @@ include "header.php";
         </div>
 
         <!-- No Vyvanse? No Panic. Dr. Ritu Goel Breaks It Down -->
-
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
@@ -314,15 +306,16 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel from MindClaire shares why balanced eating matters for both body
                         and mind.</p>
+                    <br>
+                    <br>
+                    <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-2">
                     <a href="eat_smart_feel_better_balanced_eating_for_body_&_mind" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
             </div>
         </div>
-
-
 
         <div class="col-md-4">
             <div class="blog-box">
@@ -356,8 +349,12 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel of MindClaire addresses the mental health impacts of teens’
                         increasing social media use, as highlighted by The Epoch Times.</p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-4">
                     <a href="teen-mental-health" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
                             alt=""></a>
                 </div>
@@ -377,7 +374,7 @@ include "header.php";
                     <p class="five-line">Dr. Ritu Goel of MindClaire shares insights with Forbes Business Council on
                         fostering supportive environments that help introverted employees flourish.</p>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-1">
                     <a href="insights-on-empowering-introverts-in-the-workplace" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -396,8 +393,9 @@ include "header.php";
                     <p class="five-line">MindClaire celebrates Dr. Ritu Goel’s recognition in Marquis Who’s Who for
                         her outstanding contributions to mental health care and her role as our Executive Advisor for
                         Wellness Initiatives.</p>
+                    <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-3">
                     <a href="dr-ritu-goel-honored-in-marquis" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -407,7 +405,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_01.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_01.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Dr.Ritu Goel- TieSoCal Charter Member</h2>
@@ -415,6 +413,8 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel -child and adolescent psychiatrist with 20+ years of global
                         experience<br> pioneers AI-Driven Mental Wellness Startup.</p>
+                         <br>
+                          <br>
                 </div>
                 <br>
                 <br>
@@ -428,7 +428,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_02.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_02.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Honoring Dr. Ritu Goel for Expertise in Mental Health Care</h2>
@@ -447,7 +447,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_03.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_03.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Dr Ritu Goel- A Journey of Courage </h2>
@@ -455,9 +455,10 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel discusses the integration of AI and mindfulness techniques in
                         mental health care to enhance patient outcomes and overall well-being.</p>
+                        
                 </div>
                 <br>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-2">
                     <a href="dr_ritu_goel_a_journey_of_courage.php" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -467,7 +468,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_04.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_04.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Dr. Ritu Goel- Why Managers need to be self aware in todays corporate world
@@ -477,6 +478,7 @@ include "header.php";
                     <p class="five-line">Dr. Ritu Goel discusses integrating emotional intelligence, resilience, and a
                         growth mindset into executive strategy</p>
                 </div>
+                 <br>
                 <div class="blog-readmore">
                     <a href="dr_ritu_goel-_why_managers_need_to_be_self_aware_in_todays_corporate_world.php"
                         target="_blank">Read More <img src="./assets/img/cta_arrow.svg" alt=""></a>
@@ -487,7 +489,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_05.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_05.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Dr. Ritu Goel - 20 Ways Young Entrepreneurs Can Prove Their Value</h2>
@@ -497,7 +499,7 @@ include "header.php";
                         proving their worth</p>
                 </div>
                 <br>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-1">
                     <a href="dr_ritu_goel_20_ways_young_entrepreneurs_can_prove_their_value.php" target="_blank">Read
                         More <img src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -507,7 +509,7 @@ include "header.php";
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="/assets/img/pressrelease/pr_06.webp" alt="">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_06.webp" alt="">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Pioneering Mental Health Advancements in our Digital Age </h2>
