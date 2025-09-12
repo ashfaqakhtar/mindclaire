@@ -5,6 +5,28 @@ $metakeyword = "";
 include "header.php";
 ?>
 
+
+  <style>
+    /* Responsive 16:9 video wrapper */
+    .video {
+      position: relative;
+      width: 100%;
+      max-width: 960px;        /* optional: cap the width */
+      margin: 2rem auto;       /* center on page */
+      aspect-ratio: 16 / 9;    /* modern responsive approach */
+      background: #000;        /* prevents white flash before load */
+      overflow: hidden;
+      border-radius: 12px;     /* optional: rounded corners */
+    }
+    .video iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+  </style>
+
 <div class="head-space"></div>
 
 
@@ -24,10 +46,21 @@ include "header.php";
 
                 <div class="blog-detail-body">
 
-                    <p>Dr. Ritu Goel discusses the integration of AI and mindfulness techniques in mental health care to enhance patient outcomes and overall well-being.</p>
-                    <p>Dr. Ritu Goel highlights how MindClaire integrates AI and mindfulness to deliver innovative mental health care, enhancing accessibility, outcomes, and well-being while exploring AI's potential to transform the field.</p>
+                    <p>Dr. Ritu Goel discusses the integration of AI and mindfulness techniques in mental health care to
+                        enhance patient outcomes and overall well-being.</p>
+                    <p>Dr. Ritu Goel highlights how MindClaire integrates AI and mindfulness to deliver innovative
+                        mental health care, enhancing accessibility, outcomes, and well-being while exploring AI's
+                        potential to transform the field.</p>
 
-                    <a href="" target="_blank"></a>
+                        <br>
+
+                    <div class="video">
+                        <iframe src="https://www.youtube.com/embed/zdWsdGiJ8wI?si=ryx-SsZq4UtRm9np"
+                            title="YouTube video player"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy">
+                        </iframe>
+                    </div>
                 </div>
             </div>
         </div>
@@ -38,9 +71,9 @@ include "header.php";
 
 
         <div class="col-md-3">
-          <?php
-          include 'recent_pressrelease.php'
-          ?>
+            <?php
+            include 'recent_pressrelease.php'
+                ?>
         </div>
     </div>
 </div>

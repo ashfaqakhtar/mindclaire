@@ -26,7 +26,12 @@ include "header.php";
 
                     <p>Anhedonia causes loss of pleasure and motivation, impacting daily life and emotional connection. At MindClaire, Dr. Ritu offers personalized, evidence-based care to help restore balance and well-being. Recovery is possible with the right support.</p>
 
-                    <br><br>
+                    <br>
+
+                    <a target="_blank" class=""
+                        href="https://www.everydayhealth.com/mental-health-conditions/anhedonia/">
+                        Read More
+                    </a>
 
                     <div class="edu-comment-box">
 

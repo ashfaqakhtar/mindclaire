@@ -28,7 +28,12 @@ include "header.php";
                         long-term focus—to mental health. We help you move beyond quick fixes, guiding you to build
                         habits and strategies that support lasting emotional well-being.</p>
 
-                    <br><br>
+                    <br>
+
+                    <a target="_blank" class=""
+                        href="https://www.forbes.com/councils/forbesbusinesscouncil/2025/07/23/20-ways-leaders-can-get-their-team-to-focus-on-long-term-results/?utm_campaign=Social%20Member%20EPs&utm_content=340250542&utm_medium=social&utm_source=linkedin&hss_channel=lcp-27064223">
+                        Read More
+                    </a>
 
                     <div class="edu-comment-box">
 

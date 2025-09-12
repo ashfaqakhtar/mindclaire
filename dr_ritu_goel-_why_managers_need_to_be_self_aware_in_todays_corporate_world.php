@@ -24,10 +24,24 @@ include "header.php";
 
                 <div class="blog-detail-body">
 
-                    <p>Dr. Ritu Goel discusses integrating emotional intelligence, resilience, and a growth mindset into executive strategy</p>
-                    <p>Dr. Ritu Goel emphasizes the importance of integrating emotional intelligence, resilience, and a growth mindset into executive strategies to enhance leadership effectiveness and organizational success</p>
+                    <p>Dr. Ritu Goel discusses integrating emotional intelligence, resilience, and a growth mindset into
+                        executive strategy</p>
+                    <p>Dr. Ritu Goel emphasizes the importance of integrating emotional intelligence, resilience, and a
+                        growth mindset into executive strategies to enhance leadership effectiveness and organizational
+                        success</p>
 
-                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7258149551444742144" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7258149551444742144</a>
+                    <br>
+                    <div>
+                        <a target="_blank" class=""
+                            href="https://councils.forbes.com/future-focused-leadership">
+                            Read More
+                        </a>
+                    </div>
+                
+                    <br>
+
+                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7258149551444742144"
+                        target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7258149551444742144</a>
                 </div>
             </div>
         </div>
@@ -38,9 +52,9 @@ include "header.php";
 
 
         <div class="col-md-3">
-          <?php
-          include 'recent_pressrelease.php'
-          ?>
+            <?php
+            include 'recent_pressrelease.php'
+                ?>
         </div>
     </div>
 </div>

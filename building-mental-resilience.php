@@ -14,7 +14,8 @@ include "header.php";
             <div class="blog-details-box">
 
                 <div class="detail-blog-head">
-                    <h1>Dr. Ritu Goel of MindClaire featured in Forbes: Insights on empowering introverts in the workplace.</h1>
+                    <h1>Dr. Ritu Goel of MindClaire featured in Forbes: Insights on empowering introverts in the
+                        workplace.</h1>
                     <p>by Dr. Ritu Goel | June 17, 2025 | Press Releases | 0 comments</p>
                 </div>
 
@@ -24,18 +25,23 @@ include "header.php";
 
                 <div class="blog-detail-body">
 
-                    <p>At the Forbes Business Council Roundtable, Dr. Ritu Goel, Founder of MindClaire, offers key insights on strengthening mental resilience and preventing burnout, highlighting the need to center mental well-being in leadership and high-performance environments.</p>
+                    <p>At the Forbes Business Council Roundtable, Dr. Ritu Goel, Founder of MindClaire, offers key
+                        insights on strengthening mental resilience and preventing burnout, highlighting the need to
+                        center mental well-being in leadership and high-performance environments.</p>
 
-                    <br><br>
+                    <br>
 
-                    <!--<a href="https://www.forbes.com/councils/forbesbusinesscouncil/2025/05/22/20-ways-to-help-your-introverted-employees-and-their-work-shine/"-->
-                    <!--    target="_blank">20 Ways To Help Your Introverted Employees (And Their Work) Shine</a>-->
+                    <a target="_blank" class=""
+                        href="https://councils.forbes.com/app/login?redirect=%2Fv2%2Factivities%2Fb53a1b60-2aa5-11f0-8080-800109603320%3Futm_campaign%3D4763946-Member%2520Events%25202025%26utm_content%3D334763273%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26hss_channel%3Dlcp-27064223">
+                        Read More
+                    </a>
 
 
                     <div class="edu-comment-box">
 
                         <div class="edu-box-title">
-                            <h1><span class="black-text">Submit a </span><span class="purple-text-about">Comment</span> </h1>
+                            <h1><span class="black-text">Submit a </span><span class="purple-text-about">Comment</span>
+                            </h1>
 
                             <p>Your email address will not be published. Required fields are marked *</p>
 
@@ -145,7 +151,7 @@ if (isset($_POST['submit'])) {
     $email_id = htmlspecialchars($_POST['email_id']);
     $website_url = htmlspecialchars($_POST['website_url']);
     $comment_on_post = htmlspecialchars($_POST['message_box']);
- 
+
 
     $subject = "Media Mention Page | Conmmet Section";
 
@@ -154,7 +160,7 @@ if (isset($_POST['submit'])) {
         . "Last Name: " . $last_name . "\n\n"
         . "Email Id: " . $email_id . "\n\n"
         . "Website URL: " . $website_url . "\n\n"
-        . "Comment On Post: " .$comment_on_post . "\n\n";
+        . "Comment On Post: " . $comment_on_post . "\n\n";
 
     // Email headers
     $headers = "From: " . $fromEmail;

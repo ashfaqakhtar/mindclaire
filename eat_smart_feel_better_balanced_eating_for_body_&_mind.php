@@ -26,7 +26,11 @@ include "header.php";
 
                     <p>New insights reveal that overly restrictive low-calorie diets may increase the risk of depression, challenging common health trends. Dr. Ritu Goel, board-certified psychiatrist and founder of MindClaire, highlights the hidden emotional costs of dieting: "Their identity becomes tied to weight... shaping their sense of self-worth."  True wellness isn’t just about eating less—it’s about nourishing both your body and mind.</p>
 
-                    <br><br>
+                    <br>
+                    <a target="_blank" class=""
+                        href="https://www.healthline.com/health-news/low-calorie-diets-depression-risk-healthy-eating-habits#Foods-to-improve-your-mood">
+                        Read More
+                    </a>
 
                     <div class="edu-comment-box">
 

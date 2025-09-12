@@ -28,7 +28,11 @@ include "header.php";
                         feature on SingleCare. She explains how this beta blocker may help manage symptoms like rapid
                         heartbeat and what to consider before using it for mental health support.</p>
 
-                    <br><br>
+                    <br>
+                    <a target="_blank" class=""
+                        href="https://www.singlecare.com/blog/nebivolol-dose-for-anxiety/">
+                        Read More
+                    </a>
 
                     <div class="edu-comment-box">
 

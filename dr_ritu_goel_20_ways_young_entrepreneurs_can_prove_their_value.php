@@ -27,6 +27,21 @@ include "header.php";
                     <p>Dr.Ritu Goel shares her insights and valuable tips for young entrepreneurs on proving their worth</p>
                     <p>The article highlights Mindclaire's approach to building credibility and expertise by consistently delivering on promises and exceeding expectation</p>
 
+                    <br>
+                    
+                   <div>
+                     <a target="_blank" class=""
+                        href="https://www.forbes.com/councils/forbesbusinesscouncil/2024/10/15/20-ways-young-entrepreneurs-can-prove-their-value/">
+                        Read More
+                    </a>
+                   </div>
+
+                   <br>
+                   <br>
+                   
+
+                    
+
                     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7252732252063719425" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7252732252063719425</a>
                 </div>
             </div>

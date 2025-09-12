@@ -29,7 +29,12 @@ include "header.php";
                         exploring appeal options and safe alternatives, Dr. Goel helps you take back control of your
                         ADHD care—with clarity, not chaos.</p>
 
-                    <br><br>
+                    <br>
+
+                    <a target="_blank" class=""
+                        href="https://www.singlecare.com/blog/insurance-stopped-covering-vyvanse/">
+                        Read More
+                    </a>
 
                     <div class="edu-comment-box">
 

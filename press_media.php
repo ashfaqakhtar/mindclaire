@@ -44,8 +44,9 @@ include "header.php";
                     <h2 class="three-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel suggests what to do when insurance forces a Vyvanse switch,
-                        understand your options, find safe alternatives, and stay in control of your ADHD treatment.</p>
+                    <p class="five-line">Mindful steps today. Enduring wellness tomorrow. - Dr. Ritu Goel, Mindclaire.</p>
+                    <br>
+                    <br>
                 </div>
                 <div class="blog-readmore">
                     <a href="mindful-steps-today-enduring-wellness-tomorrow" target="_blank">Read More <img
