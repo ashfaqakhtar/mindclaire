@@ -34,15 +34,15 @@ include "header.php";
 <div class="container">
     <div class="row">
 
-        <!-- Quoted in The Washington Times: Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk -->
+        <!--  Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk | Dr. Ritu Goel  -->
         <div class="col-md-4">
             <div class="blog-box">
                 <div class="blog-image">
                     <img class="img-fluid" src="assets/img/pressrelease/pr_24.webp" alt="pr_24">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">Quoted in The Washington Times: Parental ‘Deaths of Despair’ Linked to Higher
-                        Youth Suicide Risk</h2>
+                    <h2 class="three-line">Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk | Dr. Ritu
+                        Goel </h2>
                 </div>
                 <div class="blog-text">
                     <p class="five-line">Quoted in The Washington Times, Dr. Ritu Goel cautions against calling it
@@ -50,7 +50,7 @@ include "header.php";
                     </p>
                     <br>
                 </div>
-                <div class="blog-readmore">
+                <div class="blog-readmore mt-2">
                     <a href="quoted-in-the-washington-times" target="_blank">Read More <img
                             src="./assets/img/cta_arrow.svg" alt=""></a>
                 </div>
@@ -72,7 +72,6 @@ include "header.php";
                         imperative, shaping tomorrow’s leaders, enhancing workforce readiness, and fostering
                         community resilience.
                     </p>
-                    <br>
                 </div>
                 <div class="blog-readmore">
                     <a href="cost-of-neglect" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
@@ -93,7 +92,6 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">Dr. Ritu Goel shares expert insights on how long duloxetine (Cymbalta) stays in
                         your system, what affects its duration, and what patients should know for safe use.</p>
-                    <br>
                     <br>
                 </div>
                 <div class="blog-readmore mt-2">
