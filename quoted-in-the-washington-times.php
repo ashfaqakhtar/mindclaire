@@ -14,7 +14,7 @@ include "header.php";
             <div class="blog-details-box">
 
                 <div class="detail-blog-head">
-                    <h1>Quoted in The Washington Times: Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk</h1>
+                    <h1>Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk | Dr. Ritu Goel </h1>
                     <p>by Dr. Ritu Goel | September 12, 2025 | Press Releases | 0 comments</p>
                 </div>
 
