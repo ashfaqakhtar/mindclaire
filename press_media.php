@@ -34,6 +34,28 @@ include "header.php";
 <div class="container">
     <div class="row h-100">
 
+        <!--  “Dr. Ritu Goel: How Reading Boosts Focus & Empathy.”  -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_25.webp" alt="pr_25">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Dr. Ritu Goel: How Reading Boosts Focus & Empathy.</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">As featured in The Flowspace, Dr. Ritu Goel shares how reading boosts focus,
+                        calms anxiety, and strengthens emotional resilience.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="reading-boosts-focus-and-empathy" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
+            </div>
+        </div>
+
         <!--  Parental ‘Deaths of Despair’ Linked to Higher Youth Suicide Risk | Dr. Ritu Goel  -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -399,8 +421,7 @@ include "header.php";
             </div>
 
             <div class="blog-readmore mt-4">
-                <a href="teen-mental-health" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                        alt=""></a>
+                <a href="teen-mental-health" target="_blank">Read More <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
@@ -560,14 +581,12 @@ include "header.php";
                         digital age in her Forbes Business Council article.</p>
                 </div>
             </div>
-            
+
             <div class="blog-readmore">
                 <a href="pioneering_mental_health_advancements_in_our_digital_age.php" target="_blank">Read More
                     <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
-
-
     </div>
 </div>
 
