@@ -289,7 +289,7 @@ include "header.php";
     <div class="row cont-sect-row">
         <div class="col-md-12 col-lg-4 col-sm-12 col-xs-12 ">'
             <div class="contact-bio-image">
-                <img class="img-fluid" src="./assets/img/ritu-1.webp" alt="Ritu Goel MD., DFAACAP - Integrative Psychiatrist">
+                <img class="img-fluid" src="./assets/img/ritu-1.webp" alt="Ritu Goel MD, DFAACAP - Integrative Psychiatrist">
             </div>
         </div>
         <div class="col-md-12 col-lg-4 col-sm-12 col-xs-12  d-flex align-items-center">
