@@ -1,6 +1,6 @@
 <?php
 $title = "About MindClaire | Meet Dr. Ritu Goel - Integrative Psychiatrist Long Beach";
-$meta = "Mindclaire, Ritu Goel MD. provides holistic healing, traditional psychiatry & AI-driven diagnostics that fosters growth, healing, relief from symptoms & overall wellness";
+$meta = "Mindclaire, Ritu Goel MD, DFAACAP provides holistic healing, traditional psychiatry & AI-driven diagnostics that fosters growth, healing, relief from symptoms & overall wellness";
 $metakeyword = "Dr. Ritu Goel, integrative psychiatry expert, child psychiatry, adolescent psychiatry, adult psychiatry, personalized treatment, mental health care, holistic psychiatry, Long Beach, California. ";
 include "header.php";
 ?>
@@ -45,7 +45,7 @@ include "header.php";
         <div class="col-md-7">
             <div class="ritu-bio">
                 <h6>Hi, I’m</h6>
-                <h2 class="blue-text">Ritu Goel <span class="purple-text-md">MD.</span></h2>
+                <h2 class="blue-text">Ritu Goel <span class="purple-text-md">MD, DFAACAP</span></h2>
                 <p>Welcome to my practice, MindClaire. I’m an integrative psychiatrist who believes in nurturing
                     mental wellness by harmoniously integrating the wisdom of traditional psychiatry with the
                     personalized touch of holistic healing methods.
