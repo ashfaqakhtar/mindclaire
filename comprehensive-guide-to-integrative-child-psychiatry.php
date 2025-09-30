@@ -180,7 +180,7 @@ include "header.php";
 
                     <br>
 
-                    <p>Dr. Ritu Goel, MD, Integrative Child, Adolescent and Adult Psychiatrist</p>
+                    <p>Dr. Ritu Goel, MD, DFAACAP, Integrative Child, Adolescent and Adult Psychiatrist</p>
 
 
 

@@ -16,7 +16,7 @@ include "header.php";
                 <div class="detail-blog-head">
                     <h1>Unseen Battles: Understanding PTSD and the Path to Healing 
                     </h1>
-                    <p>by Dr. Ritu Goel, MD | June 24, 2025 | Blogs | 0 comments</p>
+                    <p>by Dr. Ritu Goel, MD, DFAACAP  | June 24, 2025 | Blogs | 0 comments</p>
                 </div>
 
                 <div class="blog-detail-img">

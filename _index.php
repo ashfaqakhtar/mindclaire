@@ -1,6 +1,6 @@
 <?php
 $title = "Holistic Mental Wellness Treatment & Integrative Psychiatric Services Long Beach, CA | Mind Claire";
-$meta = "Mindclaire, Ritu Goel MD. provides personalized Mental care, healing & treatment consultation in California for children, teens, young adults, Parents & Guardian";
+$meta = "Mindclaire, Ritu Goel MD., DFAACAP provides personalized Mental care, healing & treatment consultation in California for children, teens, young adults, Parents & Guardian";
 $metakeyword = "Integrative psychiatry, mental health care, personalized treatment, child psychiatry, adolescent psychiatry, adult psychiatry, Dr. Ritu Goel, anxiety treatment, depression treatment, autism diagnosis, Autism therapy, holistic psychiatry, wellness platform, Long Beach, California. ";
 include "header-home.php";
 ?>
@@ -80,7 +80,7 @@ include "header-home.php";
         <div class="col-md-7">
             <div class="ritu-bio">
                 <h6 style="padding: 10px 0px;">Hi, I’m</h6>
-                <h2 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD.</span>
+                <h2 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD, DFAACAP</span>
                 </h2>
                 <p>Welcome to my practice, Mindclaire. I’m an integrative psychiatrist who believes in nurturing
                     mental wellness by harmoniously integrating the wisdom of traditional psychiatry with the

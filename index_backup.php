@@ -66,7 +66,7 @@ include "header-home.php";
         <div class="col-md-12 col-lg-7">
             <div class="ritu-bio">
                 <h6 style="padding: 10px 0px;">Hi, I’m</h6>
-                <h2 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD.</span>
+                <h2 style="padding: 15px 0px;" class="blue-text">Ritu Goel <span class="purple-text-md">MD, DFAACAP</span>
                 </h2>
                 <p>Welcome to my practice, Mindclaire. I’m an integrative psychiatrist who believes in nurturing
                     mental wellness by harmoniously integrating the wisdom of traditional psychiatry with the
