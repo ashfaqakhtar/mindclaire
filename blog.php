@@ -58,18 +58,46 @@ include "header.php";
     <div class="row">
 
         <!-- first bog  -->
-        
+
+        <div class="col-md-3 tag-main-box" data-category="autism">
+            <div class="blog-box">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/blogs/autism’s_causes_banner.webp"
+                        alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Autism’s Causes: What We Know, What We Don’t—and What Helps Families Now</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Autism is not a single story or a single cause. It’s a spectrum influenced by
+                        many factors—genetic, prenatal, and perinatal—that interact with timing and context during early
+                        brain development. My goal with this article is straightforward: to cut through noise, share
+                        what science supports, and offer practical guidance you can use now—care, clarity, compassion. 
+                    </p>
+                </div>
+                <div class="blog-readmore">
+                    <a href="autism-causes-what-we-know-what-we-dont" target="_blank">Read
+                        More <img src="./assets/img/cta_arrow.svg" alt="Read More"></a>
+                </div>
+            </div>
+        </div>
+
+
         <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/understanding-ptsd-thumbnail.webp" alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
+                    <img class="img-fluid" src="./assets/img/understanding-ptsd-thumbnail.webp"
+                        alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">Unseen Battles: Understanding PTSD and the Path to Healing 
+                    <h2 class="three-line">Unseen Battles: Understanding PTSD and the Path to Healing
                     </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">June marks National PTSD Awareness Month—a crucial reminder of the invisible struggles faced by millions worldwide. Post-Traumatic Stress Disorder (PTSD) is real, complex, and deeply impactful, affecting every aspect of an individual's life. Understanding its dynamics is the first step toward healing and support. 
+                    <p class="five-line">June marks National PTSD Awareness Month—a crucial reminder of the invisible
+                        struggles faced by millions worldwide. Post-Traumatic Stress Disorder (PTSD) is real, complex,
+                        and deeply impactful, affecting every aspect of an individual's life. Understanding its dynamics
+                        is the first step toward healing and support.
                     </p>
                 </div>
                 <div class="blog-readmore">
@@ -78,18 +106,24 @@ include "header.php";
                 </div>
             </div>
         </div>
-        
-        
-                <div class="col-md-3 tag-main-box" data-category="">
+
+
+        <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/thriving_blog.webp" alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
+                    <img class="img-fluid" src="./assets/img/thriving_blog.webp"
+                        alt="Thriving Without Burning Out: 11 Habits for a More Aligned Life">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Thriving Without Burning Out: 11 Habits for a More Aligned Life</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">In a world that glorifies hustle, it’s easy to believe that success means working harder, longer, and louder. But as a psychiatrist, entrepreneur, and coach to high-performing professionals, I’ve seen a different truth: real success comes from alignment. It’s about crafting habits that protect your energy, sharpen your focus, and let you thrive without the burnout. These 11 habits aren’t just about doing more—they’re about being more, in a way that feels purposeful and sustainable. 
+                    <p class="five-line">In a world that glorifies hustle, it’s easy to believe that success means
+                        working harder, longer, and louder. But as a psychiatrist, entrepreneur, and coach to
+                        high-performing professionals, I’ve seen a different truth: real success comes from alignment.
+                        It’s about crafting habits that protect your energy, sharpen your focus, and let you thrive
+                        without the burnout. These 11 habits aren’t just about doing more—they’re about being more, in a
+                        way that feels purposeful and sustainable.
                     </p>
                 </div>
                 <div class="blog-readmore">
@@ -102,16 +136,22 @@ include "header.php";
         <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/blog-6-profile.webp" alt="The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health Struggles">
+                    <img class="img-fluid" src="./assets/img/blog-6-profile.webp"
+                        alt="The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health Struggles">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health Struggles</h2>
+                    <h2 class="three-line">The Silent Burnout: Why High-Achievers Are Hiding Their Mental Health
+                        Struggles</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">She’s the top student, juggling school and side projects. He’s the executive who never misses a deadline. They’re the parents doing it all and still showing up smiling. On the outside, high achievers seem unstoppable. But behind the scenes? Many are running on fumes. 
-                    Welcome to the world of silent burnout—where success masks stress, and ambition hides anxiety. 
-                    Unlike traditional burnout, which often ends in collapse, silent burnout is sneakier. It’s a quiet, chronic erosion of energy and mental wellness—harder to spot, easier to dismiss. 
-                    But here's the thing: ignoring it doesn’t make it go away. Let’s unpack what it looks like, why it’s so common, and how to regain control. 
+                    <p class="five-line">She’s the top student, juggling school and side projects. He’s the executive
+                        who never misses a deadline. They’re the parents doing it all and still showing up smiling. On
+                        the outside, high achievers seem unstoppable. But behind the scenes? Many are running on fumes.
+                        Welcome to the world of silent burnout—where success masks stress, and ambition hides anxiety.
+                        Unlike traditional burnout, which often ends in collapse, silent burnout is sneakier. It’s a
+                        quiet, chronic erosion of energy and mental wellness—harder to spot, easier to dismiss.
+                        But here's the thing: ignoring it doesn’t make it go away. Let’s unpack what it looks like, why
+                        it’s so common, and how to regain control.
                     </p>
                 </div>
                 <div class="blog-readmore">
@@ -126,7 +166,8 @@ include "header.php";
         <div class="col-md-3 tag-main-box" data-category="">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/a-journey-through-emotions-thumb.webp" alt="A Journey Through Emotions - A Child Psychiatrist's Perspective">
+                    <img class="img-fluid" src="./assets/img/a-journey-through-emotions-thumb.webp"
+                        alt="A Journey Through Emotions - A Child Psychiatrist's Perspective">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">A Journey Through Emotions - A Child Psychiatrist's Perspective</h2>
@@ -232,7 +273,8 @@ include "header.php";
         <div class="col-md-3 tag-main-box" data-category="nutritions">
             <div class="blog-box">
                 <div class="blog-image">
-                    <img class="img-fluid" src="./assets/img/blog-thumb.webp" alt="Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches">
+                    <img class="img-fluid" src="./assets/img/blog-thumb.webp"
+                        alt="Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and Holistic Approaches">
                 </div>
                 <div class="blog-head">
                     <h2 class="three-line">Comprehensive Guide to Integrative Child Psychiatry: Bridging Traditional and

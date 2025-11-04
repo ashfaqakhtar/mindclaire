@@ -19,6 +19,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 .nav_mobile_display_none {
     display: block;
 }
@@ -763,13 +764,16 @@ label {
     .nav_mobile_display_none {
         display: none !important;
     }
+
     .nav_mobile_display_block {
         display: block !important;
         z-index: 999;
     }
+
     .approach_p {
         padding: 0px !important;
     }
+
     .home-banner-first h2 {
         font-family: Ringift;
         font-size: 2rem !important;
@@ -781,21 +785,27 @@ label {
         display: block !important;
         padding: 80px 10px 30px 80px !important;
     }
+
     .inner-footer h4 {
         padding-bottom: 20px !important;
     }
+
     .right_second {
         padding: 20px !important;
     }
+
     .right_second p {
         padding-right: 16px !important;
     }
+
     .ai-box-slider h1 {
         padding: 0px 112px !important;
     }
+
     .left_img img {
         width: 100% !important;
     }
+
     /*   .ritu-image img {
     border-radius: 30px;
     height: 300px !important;
@@ -807,21 +817,26 @@ label {
         font-size: 3.5rem !important;
         font-family: Ringift !important;
     }
+
     /* .mob-nav-main {
         position: sticky !important;
     } */
     .ai_wellness_banner {
         margin: 50px 0px 50px 0px !important;
     }
+
     .second-ai-box {
         padding-top: 0px !important;
     }
+
     .second-ai-box p {
         padding-top: 0px !important;
     }
+
     .second-ai-box {
         padding-left: 0px !important;
     }
+
     /* .resource-title {
         padding: 157px 0px 177px 51px !important;
     } */
@@ -842,6 +857,7 @@ label {
     .wellness-linkedin a {
         padding-left: 38px !important;
     }
+
     .resource-title {
         padding: 86px 0px 107px 51px !important;
     }
@@ -851,6 +867,7 @@ label {
     .wellness-linkedin a {
         padding-left: 16px !important;
     }
+
     .resource-title {
         padding: 134px 0px 148px 120px !important;
     }
@@ -860,6 +877,7 @@ label {
     .wellness-linkedin a {
         padding-left: 38px !important;
     }
+
     .resource-title {
         padding: 169px 0px 183px 120px !important;
     }
@@ -872,15 +890,18 @@ label {
     .right_second {
         padding: 92px 24px 100px 24px !important;
     }
+
     .subscription_box {
         margin-bottom: 32px !important;
     }
+
     .subscription_box p {
         line-height: 38px !important;
         font-size: 1.2rem !important;
         padding-bottom: 40px !important;
         padding-right: 0px !important;
     }
+
     .right_second p {
         line-height: 35px !important;
         text-align: left !important;
@@ -888,64 +909,81 @@ label {
         font-size: 1.5rem !important;
         padding-bottom: 25px !important;
     }
+
     .nav_mobile_display_none {
         display: none !important;
     }
+
     .nav_mobile_display_block {
         display: block !important;
     }
+
     .mobile_display_none {
         display: none !important;
     }
+
     .mobile_display_block {
         display: block !important;
     }
+
     .ritu-image img {
         height: auto !important;
         width: 100%;
     }
+
     .right-top-footer {
         flex-direction: column !important;
         row-gap: 25px;
         padding: 50px 60px 0px 35px !important;
     }
+
     .right-footer {
         width: 366px;
         margin-left: 24px;
     }
+
     .left-footer img {
         float: left !important;
         height: 61px !important;
         margin-left: 54px !important;
         margin-bottom: 20px !important;
     }
+
     .right-bottom-footer {
         padding: 0px 0px 0px 35px !important;
     }
+
     .spacing {
         padding: 20px 0px !important;
     }
+
     .ritu-bio h6 {
         padding: 44px 0px 0px 0px !important;
     }
+
     .approach_p {
         padding: 0px !important;
     }
+
     .testimonial_box {
         background-size: cover !important;
         background-position: center !important;
     }
+
     .calnder-box p {
         padding: 0px !important;
     }
+
     .calen-align-mob {
         display: flex !important;
         justify-content: center !important;
     }
+
     .home-sticker {
         flex-direction: column;
         align-items: center;
     }
+
     .about-slider .slick-next {
         right: 65px !important;
         top: 160px !important;
@@ -953,6 +991,7 @@ label {
         font-size: 22px !important;
         display: none !important;
     }
+
     .about-slider .slick-prev {
         left: 57px;
         z-index: 99;
@@ -961,32 +1000,40 @@ label {
         font-size: 22px;
         display: none !important;
     }
+
     .about-middle-sect-text {
         margin-bottom: 22px !important;
         margin-top: 34px !important;
         text-align: center !important;
     }
+
     .about-middle-sect-text h2 {
         font-size: 1.8rem !important;
     }
+
     .home-banner-first h2 {
         padding-top: 13.12rem !important;
     }
+
     .home_page_sub {
         padding-bottom: 4.25rem !important;
     }
+
     .footer-terms {
         display: flex !important;
         flex-direction: column !important;
         gap: 0px !important;
         padding-bottom: 30px !important;
     }
+
     .footer-terms h4 {
         padding: 0px 0px 8px 0px !important;
     }
+
     .good-fit {
         padding: 135px 47px 129px 47px !important;
     }
+
     .good-fit h2 {
         color: white !important;
         font-size: 16px !important;
@@ -994,29 +1041,36 @@ label {
         padding: 0px 50px !important;
         line-height: 26px !important;
     }
+
     .accordian .card_1 .card-header {
         display: flex !important;
         align-items: center !important;
         justify-content: space-between !important;
         position: unset !important;
     }
+
     .accordian .card_1 .card-header span {
         position: unset !important;
     }
+
     .accordian .card_1 .card-header h3 {
         position: unset !important;
     }
+
     .second-ai-box {
         padding-left: 20px !important;
         padding-top: 0px !important;
         padding-right: 0px !important;
     }
+
     .second-ai-box p {
         padding-top: 0px !important;
     }
+
     .slick_1 .slick-dots {
         bottom: 2px !important;
     }
+
     /* .index-ai-cta {
         text-align: right;
         padding-bottom: 40px;
@@ -1025,27 +1079,35 @@ label {
     .white_cta {
         bottom: 36px !important;
     }
+
     .ai-box-slider h1 {
         font-size: 1.5rem !important;
     }
+
     .accordian .card_1 .card-header h3 {
         padding: 15px 0px !important;
     }
+
     .accordian .card_1 .card-header span {
         margin: 0px 4px !important;
     }
+
     .header_bg {
         height: 110vh !important;
     }
+
     .resource-title {
         padding: 48px 0px 35px 18px !important;
     }
+
     .wellness-social-media {
         display: block !important;
     }
+
     .wellness-social-media-box {
         margin-bottom: 20px !important;
     }
+
     .wellness-social-media-upper {
         justify-content: center;
         align-items: center;
@@ -1498,6 +1560,11 @@ label {
 }
 
 .blog-detail-body ol li {
+    font-size: 1.12rem;
+    font-family: 'inter';
+}
+
+.blog-detail-body ul li {
     font-size: 1.12rem;
     font-family: 'inter';
 }

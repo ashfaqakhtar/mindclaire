@@ -69,8 +69,7 @@ include "header.php";
         <div class="col-lg-6 col-md-12 col-sm-12 wellness-social-media">
             <div class="wellness-social-media">
                 <div class="wellness-linkedin wellness-social-media-box">
-                    <img src="./assets/img/resource-page/linkedin.svg" alt="linkedin" class="img-fluid"
-                        width="">
+                    <img src="./assets/img/resource-page/linkedin.svg" alt="linkedin" class="img-fluid" width="">
                     <a href="https://www.linkedin.com/company/mindclaire/">Follow now <svg
                             xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
                             <path d="M1.54297 1.5752H10.8503V10.8825" stroke="#3C0A6D" stroke-width="1.5"
@@ -125,7 +124,7 @@ include "header.php";
 
 <div class="container">
     <div class="row">
-        
+
         <div class="col-lg-6 col-md-12">
             <div class="parent-care-box">
                 <div class="parent-care-box-title">
@@ -142,18 +141,21 @@ include "header.php";
                     <ul>
                         <li>Know the Triggers: Identify causes like sensory overload, frustration, or changes.</li>
                         <li>Build Safe Spaces: Use schedules, calm corners, and headphones to help regulation.</li>
-                        <li>React Calmly: Stay calm, give clear directions, and validate feelings while reducing triggers.</li>
+                        <li>React Calmly: Stay calm, give clear directions, and validate feelings while reducing
+                            triggers.</li>
                     </ul>
                 </div>
 
                 <div class="parent-care-box-cta">
-                    <a class="resource-page-inner-cta"
-                        href="https://occams-my.sharepoint.com/personal/roshan_gawade_occamsadvisory_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Froshan%5Fgawade%5Foccamsadvisory%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FJeena%20Presentation%2Epdf&parent=%2Fpersonal%2Froshan%5Fgawade%5Foccamsadvisory%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files"
-                        target="_blank">Visit now</a>
+                    <a class="resource-page-inner-cta" href="./assets/pdf/jeena-presentation.pdf" target="_blank"
+                        rel="noopener noreferrer">
+                        Visit now
+                    </a>
+
                 </div>
             </div>
         </div>
-        
+
         <div class="col-lg-6 col-md-12">
             <div class="parent-care-box">
                 <div class="parent-care-box-title">
@@ -262,7 +264,8 @@ include "header.php";
                 </div>
 
                 <div class="parent-care-box-cta">
-                    <a class="resource-page-inner-cta" href="https://www.anxietycanada.com/articles/parents/"
+                    <a class="resource-page-inner-cta"
+                        href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824286"
                         target="_blank">Visit now</a>
                 </div>
             </div>
@@ -337,8 +340,8 @@ include "header.php";
 
                 <div class="parent-care-box-cta">
                     <a class="resource-page-inner-cta"
-                        href="https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health"
-                        target="_blank">Visit now</a>
+                        href="https://www.nimh.nih.gov/health/topics/mental-health-medications" target="_blank">Visit
+                        now</a>
                 </div>
             </div>
         </div>
@@ -460,7 +463,7 @@ include "header.php";
                 <div class="trusted-external-box-content">
                     <h1><b>SAMHSA Helpline – </b>1-800-662-HELP (4357) for substance use and mental health services</h1>
                     <div class="trusted-external-box-cta">
-                        <a class="resource-page-inner-cta" href="https://www.samhsa.gov/find-help/national-helpline"
+                        <a class="resource-page-inner-cta" href="https://mhanational.org/get-involved/contact-us/"
                             target="_blank">Visit now</a>
                     </div>
                 </div>
@@ -575,7 +578,8 @@ include "header.php";
                 <div class="trusted-external-box-content">
                     <h1>Disability Advice</h1>
                     <div class="trusted-external-box-cta">
-                        <a class="resource-page-inner-cta" href="https://disabilityadvice.org/child-disability/" target="_blank">Visit
+                        <a class="resource-page-inner-cta" href="https://disabilityadvice.org/child-disability/"
+                            target="_blank">Visit
                             now</a>
                     </div>
                 </div>
