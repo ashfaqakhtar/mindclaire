@@ -133,7 +133,7 @@ include "header.php";
                     </h1>
                 </div>
 
-                <div class="parent-care-box-image">
+                <div class="parent-care-box-image mt-2">
                     <img class="img-fluid" src="./assets/img/resource-page/managing_aggression.webp" alt="parent-care">
                 </div>
 
@@ -163,6 +163,7 @@ include "header.php";
                         Understanding Mental Health in Children and Teens
                     </h1>
                 </div>
+                <br>
 
                 <div class="parent-care-box-image">
                     <img class="img-fluid" src="./assets/img/resource-page/parent-care.webp" alt="parent-care">
@@ -204,7 +205,6 @@ include "header.php";
                         <li>Creating a balanced tech environment at home.</li>
                         <li>Family-friendly digital detox strategies.</li>
                     </ul>
-                    <br>
                 </div>
 
                 <div class="parent-care-box-cta">
