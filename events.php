@@ -33,49 +33,79 @@ include "header.php";
 
 <div class="container">
     <div class="row">
-        
-        <div class="col-md-4">
-            <div class="blog-box">
+
+        <!-- AI and Emotional Well-Being: Friend, Foe, or Something In Between? -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_12.webp" alt="">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">AI and Emotional Well-Being: Friend, Foe, or Something In Between?</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, joined SKY Campus Happiness to discuss
+                        how artificial intelligence is shaping the landscape of youth mental health—its promise, its
+                        pitfalls, and how it can support rather than replace human connection and clinical care.</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="ai-and-emotional-well-being" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_11.webp" alt="">
                 </div>
+
                 <div class="blog-head">
                     <h2 class="three-line">Meet & Greet with President Of Estonia </h2>
                 </div>
+
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, visited the Office of the President of Estonia—celebrating leadership, culture, and global collaboration.</p>
-                        <br>
-                </div>
-                <div class="blog-readmore">
-                    <a href="meet_&_greet_with_president" target="_blank">Read More
-                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, visited the Office of the President of
+                        Estonia—celebrating leadership, culture, and global collaboration.</p>
+                    <br>
                 </div>
             </div>
+
+            <div class="blog-readmore">
+                <a href="meet_&_greet_with_president" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
         </div>
-        
-        
-        <div class="col-md-4">
-            <div class="blog-box">
+
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_10.webp" alt="">
                 </div>
                 <div class="blog-head">
-                    <h2 class="three-line">Tie Global Retreat  at Estonia - Dr Ritu Goel </h2>
+                    <h2 class="three-line">Tie Global Retreat at Estonia - Dr Ritu Goel </h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, joins global leaders at the TiE Global Retreat in Estonia—sharing insights on vision, legacy, and mental wellness, and meeting the President of Estonia.</p>
-                        <br>
+                    <p class="five-line">Dr. Ritu Goel, Founder of MindClaire, joins global leaders at the TiE Global
+                        Retreat in Estonia—sharing insights on vision, legacy, and mental wellness, and meeting the
+                        President of Estonia.</p>
+                    <br>
                 </div>
-                <div class="blog-readmore">
-                    <a href="tie_global_retreat _at_estonia" target="_blank">Read More
-                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="tie_global_retreat _at_estonia" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_09.webp" alt="">
                 </div>
@@ -83,18 +113,21 @@ include "header.php";
                     <h2 class="three-line">MindClaire Champions Hope & Courage at CHOC Gala 2025</h2>
                 </div>
                 <div class="blog-text">
-                    <p class="five-line">MindClaire proudly supported the 2025 CHOC Gala, championing pediatric healthcare. The inspiring event celebrated stories of hope and featured captivating performances by Blake Shelton and MONTAGE!</p>
-                        <br>
-                </div>
-                <div class="blog-readmore">
-                    <a href="mindclaire-champions-hope-&-courage-at-choc-gala-2025" target="_blank">Read More
-                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
+                    <p class="five-line">MindClaire proudly supported the 2025 CHOC Gala, championing pediatric
+                        healthcare. The inspiring event celebrated stories of hope and featured captivating performances
+                        by Blake Shelton and MONTAGE!</p>
+                    <br>
                 </div>
             </div>
+
+            <div class="blog-readmore">
+                <a href="mindclaire-champions-hope-&-courage-at-choc-gala-2025" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
         </div>
-        
-        <div class="col-md-4">
-            <div class="blog-box">
+
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/sky-support.webp" alt="">
                 </div>
@@ -104,17 +137,18 @@ include "header.php";
                 <div class="blog-text">
                     <p class="five-line">MindClaire proudly supports SKY Campus Happiness in its mission to enhance
                         student mental wellness through breathwork, meditation, and resilience-building programs.</p>
-                        <br>
+                    <br>
                 </div>
-                <div class="blog-readmore">
-                    <a href="mindclaire-sky-support-campus" target="_blank">Read More
-                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="mindclaire-sky-support-campus" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_01.webp" alt="">
                 </div>
@@ -127,15 +161,16 @@ include "header.php";
                         in Irvine, California, on July 29th and 30th, 2022. The event focused on fostering
                         entrepreneurship and provided a platform for networking and mentorship. </p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="mindClaire_fostering_entrepreneurship_at_tieSoCal_held_in_irvine" target="_blank">Read More
-                        <img src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="mindClaire_fostering_entrepreneurship_at_tieSoCal_held_in_irvine" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_02.webp" alt="">
                 </div>
@@ -147,15 +182,16 @@ include "header.php";
                         November 10th, 2024. The event celebrated community support and raised awareness for mental
                         health initiatives</p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="mindclaire_as_the_proud_sponsor_for_saahas_cause_gala_2024" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="mindclaire_as_the_proud_sponsor_for_saahas_cause_gala_2024" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_03.webp" alt="">
                 </div>
@@ -167,15 +203,16 @@ include "header.php";
                         Pitch Competition 2024," a prestigious event dedicated to mentoring and empowering women
                         founders. </p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="tie_women_global_mentorship_&_pitch_competition_2024" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="tie_women_global_mentorship_&_pitch_competition_2024" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_04.webp" alt="">
                 </div>
@@ -188,15 +225,16 @@ include "header.php";
                         the Integrated Health Symposium 2024. She shared her expertise in mental health and wellness,
                         emphasizing innovative approaches to integrative psychiatry.</p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="integrated_health_symposium" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="integrated_health_symposium" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_05.webp" alt="">
                 </div>
@@ -209,15 +247,16 @@ include "header.php";
                         Arizona. She highlighted Mindclaire's innovative use of AI in mental health care, emphasizing
                         the importance of technology in improving patient outcomes. </p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="behavioral_health_technology_2024_at_phoenix_arizona" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="behavioral_health_technology_2024_at_phoenix_arizona" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_06.webp" alt="">
                 </div>
@@ -229,15 +268,16 @@ include "header.php";
                         October 25th. Dr. Goel contributed significantly by sharing insights on the integration of AI in
                         mental health care, highlighting Mindclaire's innovative approaches. </p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="tieconwest_2024_conference_and_mindclaires_participation" target="_blank">Read More <img
-                            src="./assets/img/cta_arrow.svg" alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="tieconwest_2024_conference_and_mindclaires_participation" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="blog-box">
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
                 <div class="blog-image">
                     <img class="img-fluid" src="./assets/img/events/event_07.webp" alt="">
                 </div>
@@ -251,10 +291,11 @@ include "header.php";
                         future-focused leadership, emphasizing adaptability, innovation, and the role of technology in
                         shaping modern businesses. </p>
                 </div>
-                <div class="blog-readmore">
-                    <a href="forbes_business_council" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                            alt=""></a>
-                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="forbes_business_council" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
             </div>
         </div>
 
@@ -345,7 +386,7 @@ include 'footer.php';
 ?>
 
 <style>
-    .nav a {
-        color: #000000;
-    }
+.nav a {
+    color: #000000;
+}
 </style>
