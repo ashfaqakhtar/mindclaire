@@ -34,6 +34,54 @@ include "header.php";
 <div class="container">
     <div class="row h-100">
 
+        <!--  Ritu Goel, MD, shares integrative insomnia care—CBT-I plus holistic supports  -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_27.webp" alt="pr_27">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Ritu Goel, MD, shares integrative insomnia care-CBT-I plus holistic supports
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">At MindClaire, we treat insomnia like the next-day life problem it is. In
+                        MedShadow’s new guide, Dr Goel shares why CBT-I is our first-line approach-and how
+                        meditation/breathwork, evidence-informed supplements, and (when appropriate) short-term
+                        medications work together for safer, lasting results
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="shares-integrative-insomnia" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
+            </div>
+        </div>
+
+        <!--  Dr. Ritu Goel Shares Guidance on Catapres Safety  -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_26.webp" alt="pr_26">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Dr. Ritu Goel Shares Guidance on Catapres Safety</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel breaks down what you need to know about Catapres interactions,
+                        side effects, and safety. Discover how to take Clonidine responsibly and avoid risky medication
+                        combinations with expert guidance from MindClaire.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="guidance-on-catapres-safety" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
+            </div>
+        </div>
+
         <!--  “Dr. Ritu Goel: How Reading Boosts Focus & Empathy.”  -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -51,8 +99,8 @@ include "header.php";
             </div>
 
             <div class="blog-readmore">
-                <a href="reading-boosts-focus-and-empathy" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                        alt=""></a>
+                <a href="reading-boosts-focus-and-empathy" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
