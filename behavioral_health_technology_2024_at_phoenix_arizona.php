@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Behavioral Health Technology 2024 at Phoenix, Arizona</h1>
-                    <p>by Dr. Ritu Goel | November  03 to 07, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | November 03 to 07, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

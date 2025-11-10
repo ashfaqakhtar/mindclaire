@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>EmpowerHer: TiE Women Global Mentorship & Pitch Competition 2024</h1>
-                    <p>by Dr. Ritu Goel | September 03, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | September 03, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>TieConWest 2024 Conference and MindClaire’s participation</h1>
-                    <p>by Dr. Ritu Goel | October 25, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | October 25, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>MindClaire Fostering Entrepreneurship at TieSoCal held in Irvine, California.  </h1>
-                    <p>by Dr. Ritu Goel | July  18, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | July 18, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

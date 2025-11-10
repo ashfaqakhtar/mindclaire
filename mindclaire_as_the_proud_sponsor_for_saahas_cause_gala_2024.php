@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>MindClaire as the Proud Sponsor for Saahas Cause Gala 2024.</h1>
-                    <p>by Dr. Ritu Goel | November  10, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | November 10, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

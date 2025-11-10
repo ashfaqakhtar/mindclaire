@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>MindClaire Supports SKY Campus: Breathe, Belong, Become, <br> Los Angeles </h1>
-                    <p>by Dr. Ritu Goel | April 04, 2025 | Events </p>
+                    <p>Dr. Ritu Goel | April 04, 2025 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

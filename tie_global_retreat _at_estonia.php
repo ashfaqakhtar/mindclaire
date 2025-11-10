@@ -15,11 +15,11 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Dr Ritu Goel - Tie Global Retreat<br> Estonia </h1>
-                    <p>by Dr. Ritu Goel | July 04, 2025 | Events </p>
+                    <p>Dr. Ritu Goel | July 04, 2025 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/events/event_10.webp"" alt="sky support campus banner">
+                    <img class="img-fluid" src="./assets/img/events/event_10.webp" alt="sky support campus banner">
                 </div>
 
                 <div class="blog-detail-body">

@@ -15,16 +15,18 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Meet & Greet with President Of Estonia <br> Estonia </h1>
-                    <p>by Dr. Ritu Goel | July 03, 2025 | Events </p>
+                    <p>Dr. Ritu Goel | July 03, 2025 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/events/event_11.webp"" alt="sky support campus banner">
+                    <img class="img-fluid" src="./assets/img/events/event_11.webp" alt="sky support campus banner">
                 </div>
 
                 <div class="blog-detail-body">
-
-                    <p>Dr. Ritu Goel, Founder of MindClaire, had the honor of visiting the Office of the President of the Republic of Estonia. This meaningful moment reflects MindClaire’s commitment to fostering leadership, culture, and global connection, while bringing mental wellness into conversations that shape international progress.
+                    <p>Dr. Ritu Goel, Founder of MindClaire, had the honor of visiting the Office of the President of
+                        the Republic of Estonia. This meaningful moment reflects MindClaire’s commitment to fostering
+                        leadership, culture, and global connection, while bringing mental wellness into conversations
+                        that shape international progress.
                     </p>
                 </div>
 
@@ -61,7 +63,7 @@ include "header.php";
 include 'footer.php';
 ?>
 <style>
-    .nav a {
-        color: #000000;
-    }
+.nav a {
+    color: #000000;
+}
 </style>
