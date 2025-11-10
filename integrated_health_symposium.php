@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Integrated Health Symposium:  Mindclaire with Advanced Integrated Health. </h1>
-                    <p>by Dr. Ritu Goel | November 12, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | November 12, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

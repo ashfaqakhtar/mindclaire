@@ -34,6 +34,33 @@ include "header.php";
 <div class="container">
     <div class="row">
 
+        <!-- Exploring Inner Intelligence with Gurudev Sri Sri Ravi Shankar -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_13.webp" alt="event_13">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">Exploring Inner Intelligence with Gurudev Sri Sri Ravi Shankar</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">MindClaire participated in the private launch of the Institute of Absolute
+                        Intelligence at the Art of Living Foundation in Los Angeles - an inspiring convergence of
+                        science, technology, and consciousness. The day explored how intuition and inner awareness can
+                        expand human potential, featuring Gurudev Sri Sri Ravi Shankar’s reflections on the power of
+                        stillness and intuition in shaping the next frontier of intelligence.</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="exploring-inner-intelligence-with-gurudev" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
         <!-- AI and Emotional Well-Being: Friend, Foe, or Something In Between? -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -298,7 +325,6 @@ include "header.php";
                         alt=""></a>
             </div>
         </div>
-
     </div>
 </div>
 

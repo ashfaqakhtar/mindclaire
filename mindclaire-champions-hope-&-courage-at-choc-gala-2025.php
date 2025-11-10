@@ -15,11 +15,11 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>MindClaire Champions Hope & Courage at CHOC Gala 2025 <br> Anaheim, CA </h1>
-                    <p>by Dr. Ritu Goel | May 17, 2025 | Events </p>
+                    <p>Dr. Ritu Goel | May 17, 2025 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/events/event_09.webp"" alt="sky support campus banner">
+                    <img class="img-fluid" src="./assets/img/events/event_09.webp" alt="sky support campus banner">
                 </div>
 
                 <div class="blog-detail-body">

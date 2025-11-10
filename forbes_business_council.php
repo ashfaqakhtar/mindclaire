@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>Forbes Business Council - Future Focused Leadership: Integrating Emotional, Intelligence, Resilience and a Growth Mindset in Executive Strategy Hosted by Mental Health Group Member Leader, Ronke Komolafe with Dr. Ritu Goel. </h1>
-                    <p>by Dr. Ritu Goel | October  10, 2024 | Events </p>
+                    <p>Dr. Ritu Goel | October 10, 2024 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">

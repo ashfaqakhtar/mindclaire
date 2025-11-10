@@ -15,7 +15,7 @@ include "header.php";
 
                 <div class="detail-blog-head">
                     <h1>AI and Emotional Well-Being: Friend, <br> Foe, or Something In Between?</h1>
-                    <p>by Dr. Ritu Goel | Oct 07, 2025 | Events </p>
+                    <p>Dr. Ritu Goel | October 07, 2025 | Events </p>
                 </div>
 
                 <div class="blog-detail-img">
@@ -49,11 +49,6 @@ include "header.php";
             </div>
         </div>
 
-
-
-
-
-
         <div class="col-md-3">
             <?php
             include 'recent_event.php'
@@ -61,13 +56,6 @@ include "header.php";
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
 
 
 <div class="spacing"></div>
