@@ -14,7 +14,7 @@ include "header.php";
             <div class="blog-details-box">
 
                 <div class="detail-blog-head">
-                    <h1>Facts Every Parent Must Know! On Transform U-Live Show with Marcus Hart</h1>
+                    <h1>Facts Every Parent Must Know! On <br> Transform U-Live Show with Marcus Hart</h1>
                     <p>Dr. Ritu Goel | November 06, 2025 | Events </p>
                 </div>
 
