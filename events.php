@@ -33,6 +33,53 @@ include "header.php";
 
 <div class="container">
     <div class="row">
+        <!-- Facts Every Parent Must Know! On Transform U-Live Show with Marcus Hart -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_15.webp" alt="event_15">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">Facts Every Parent Must Know! On Transform U-Live Show with Marcus Hart</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel addresses the fears parents face when a child has a high fever,
+                        clarifying the facts about Tylenol and autism risks.</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="facts-every-parent-must-know" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
+        <!-- Empowering Every Child Through Learning ﻿ -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_14.webp" alt="event_14">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">Empowering Every Child Through Learning ﻿</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">MindClaire proudly supports Pratham USA in advancing access to education,
+                        empowering children, and creating opportunities for brighter futures.</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="empowering-every-child-through-learning" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
 
         <!-- Exploring Inner Intelligence with Gurudev Sri Sri Ravi Shankar -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">

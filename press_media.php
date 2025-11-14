@@ -34,6 +34,30 @@ include "header.php";
 <div class="container">
     <div class="row h-100">
 
+        <!--  Recharge & Reset:  Ritu Goel, MD, Strategy for a Powerful Mental-Health Break  -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_28.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Recharge & Reset: Ritu Goel, MD, Strategy for a Powerful Mental-Health Break
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Guided by Dr. Ritu Goel’s expertise, MindClaire helps you make the most of your
+                        mental health days through mindful, science-based practices that restore balance and emotional
+                        clarity
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="recharge-and-reset" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
+                        alt=""></a>
+            </div>
+        </div>
+
         <!--  Ritu Goel, MD, shares integrative insomnia care—CBT-I plus holistic supports  -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
