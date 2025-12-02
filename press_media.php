@@ -34,6 +34,56 @@ include "header.php";
 <div class="container">
     <div class="row h-100">
 
+        <!-- Chatbots Give Information. Humans Give Care- Dr. Ritu Goel on Girls Magazine -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_30.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Chatbots Give Information. Humans Give Care- Dr. Ritu Goel on Girls Magazine
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">AI can offer general tips, but it cannot understand your emotions, history, or
+                        health needs. Dr. Ritu Goel emphasizes that real concerns, whether mental health, stress, or
+                        physical wellness, require real people. Parents, therapists, doctors, and trusted adults provide
+                        the care, context, and expertise that AI simply cannot replace.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="chatbots-give-Information-humans-give-care" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
+
+        <!-- Dr. Ritu Goel Publishes Op-Ed on CDC’s New Autism Language in MedShadow -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_29.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Dr. Ritu Goel Publishes Op-Ed on CDC’s New Autism Language in MedShadow</h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, MD, DFAACAP, addresses the CDC’s updated “Autism and Vaccines”
+                        guidance in a new piece for MedShadow Foundation. She clarifies that vaccines do not cause
+                        autism, highlighting decades of research, and emphasizes clear, compassionate communication for
+                        families and support for autistic individuals.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="new-autism-language-in-medshadow" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
         <!--  Recharge & Reset:  Ritu Goel, MD, Strategy for a Powerful Mental-Health Break  -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -53,8 +103,7 @@ include "header.php";
             </div>
 
             <div class="blog-readmore">
-                <a href="recharge-and-reset" target="_blank">Read More <img src="./assets/img/cta_arrow.svg"
-                        alt=""></a>
+                <a href="recharge-and-reset" target="_blank">Read More <img src="./assets/img/cta_arrow.svg" alt=""></a>
             </div>
         </div>
 
@@ -746,7 +795,7 @@ include 'footer.php';
 ?>
 
 <style>
-.nav a {
-    color: #000000;
-}
+    .nav a {
+        color: #000000;
+    }
 </style>

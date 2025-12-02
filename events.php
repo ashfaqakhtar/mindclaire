@@ -33,6 +33,33 @@ include "header.php";
 
 <div class="container">
     <div class="row">
+
+        <!-- Autism & Mental Health Advice: Dr. Ritu Goel Joins MedShadow Panel -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_16.webp" alt="event_16">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">Autism & Mental Health Advice: Dr. Ritu Goel Joins MedShadow Panel</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel, board-certified psychiatrist, joins MedShadow Advisory Panel to
+                        share evidence-based insights on autism, developmental disabilities, mental health, and safe
+                        medication practices, integrating holistic strategies like sleep, nutrition, and mindfulness</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="autism-&-mental-health-advice-med-shadow-panel" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
+
         <!-- Facts Every Parent Must Know! On Transform U-Live Show with Marcus Hart -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -459,7 +486,7 @@ include 'footer.php';
 ?>
 
 <style>
-.nav a {
-    color: #000000;
-}
+    .nav a {
+        color: #000000;
+    }
 </style>
