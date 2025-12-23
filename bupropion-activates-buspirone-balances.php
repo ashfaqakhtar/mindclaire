@@ -14,7 +14,7 @@ include "header.php";
             <div class="blog-details-box">
 
                 <div class="detail-blog-head">
-                    <h1>Bupropion activates. Buspirone balances.</h1>
+                    <h1>Bupropion activates. Buspirone balances</h1>
                     <p>by Dr. Ritu Goel | 16th December, 2025 | Press Releases | 0 comments</p>
                 </div>
 
