@@ -34,6 +34,56 @@ include "header.php";
 <div class="container">
     <div class="row h-100">
 
+    
+        <!-- Bupropion activates. Buspirone balances. -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_32.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Bupropion activates. Buspirone balances.
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel weighs in on the distinct clinical roles of Buspirone and
+                        Bupropion. In this SingleCare feature, she explains how precision prescribing can balance
+                        'activating' antidepressants with anxiety relief and explores off-label applications for
+                        neurodivergent support.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="bupropion-activates-buspirone-balances" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
+        <!-- Well-being starts with simple, repeatable moments- Dr. Ritu Goel on Forbes -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_31.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Well-being starts with simple, repeatable moments- Dr. Ritu Goel on Forbes
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Mindclaire founder Dr. Ritu Goel joins the Forbes Business Council to discuss
+                        proactive strategies for employee well-being, advocating for the power of 'micro-habits' to
+                        prevent burnout in an always-on world.
+                    </p>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="well-being-starts-with-simple-repeatable-moments" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
         <!-- Chatbots Give Information. Humans Give Care- Dr. Ritu Goel on Girls Magazine -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
