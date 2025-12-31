@@ -19,7 +19,7 @@ include "header.php";
                 </div>
 
                 <div class="blog-detail-img">
-                    <img class="img-fluid" src="./assets/img/pressrelease/pr_31.webp" alt="pr_28">
+                    <img class="img-fluid" src="./assets/img/pressrelease/pr_32.webp" alt="pr_28">
                 </div>
 
                 <div class="blog-detail-body">

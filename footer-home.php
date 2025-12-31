@@ -63,7 +63,7 @@
                                 <h4><a href="medical-disclaimer">Medical Disclaimer</a></h4>
                             </div>
                             <div>
-                                <h4><a href="#" disabled>© 2025 MindClaire. All Right Reserved.</a></h4>
+                                <h4>© <script>document.write(new Date().getFullYear())</script> MindClaire. All Right Reserved.</h4>
                             </div>
                         </div>
                     </div>
