@@ -33,8 +33,28 @@ include "header.php";
 
 <div class="container">
     <div class="row h-100">
+        <!-- Care that measures what truly matters. -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="assets/img/pressrelease/pr_33.webp" alt="pr_28">
+                </div>
+                <div class="blog-head">
+                    <h2 class="three-line">Care that measures what truly matters.
+                    </h2>
+                </div>
+                <div class="blog-text">
+                    <p class="five-line">Dr. Ritu Goel highlights how value-based care is reshaping healthcare by prioritizing measurable outcomes, prevention, and whole-person well-being over volume-driven services.
+                    </p>
+                </div>
+            </div>
+        
+            <div class="blog-readmore">
+                <a href="care-that-measures-what-truly-matters.php" target="_blank">Read More <img
+                        src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
 
-    
         <!-- Bupropion activates. Buspirone balances. -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
