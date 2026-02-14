@@ -34,6 +34,31 @@ include "header.php";
 <div class="container">
     <div class="row">
 
+
+        <!-- MindClaire Sponsors Amemos La Vida, Issue 2, Elevating Stories That Heal -->
+        <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
+            <div class="mb-2">
+                <div class="blog-image">
+                    <img class="img-fluid" src="./assets/img/events/event_17.webp" alt="event_16">
+                </div>
+
+                <div class="blog-head">
+                    <h2 class="three-line">MindClaire Sponsors Amemos La Vida, Issue 2, Elevating Stories That Heal</h2>
+                </div>
+
+                <div class="blog-text">
+                    <p class="five-line">MindClaire proudly sponsors Amemos La Vida – Issue 2, helping amplify powerful
+                        stories of hope, resilience, and healing shared by courageous voices.</p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="blog-readmore">
+                <a href="mindclaire-sponsors-amemos-la-vida" target="_blank">Read More
+                    <img src="./assets/img/cta_arrow.svg" alt=""></a>
+            </div>
+        </div>
+
         <!-- Autism & Mental Health Advice: Dr. Ritu Goel Joins MedShadow Panel -->
         <div class="col-md-4 d-flex flex-column justify-content-between blog-box">
             <div class="mb-2">
@@ -92,7 +117,7 @@ include "header.php";
                 </div>
 
                 <div class="blog-head">
-                    <h2 class="three-line">Empowering Every Child Through Learning ﻿</h2>
+                    <h2 class="three-line">Empowering Every Child Through Learning </h2>
                 </div>
 
                 <div class="blog-text">
